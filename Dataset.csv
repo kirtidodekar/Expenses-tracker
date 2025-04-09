@@ -1,0 +1,501 @@
+Date,Amount,Currency,Category,Subcategory,Description,Payment Method,Account Used,Transaction ID,Paid By,Split With,Each Share,Settled,Recurring,Frequency,Bill/Receipt Attached,Location,Tags,Notes,Budget Category,username,password
+02-11-2024,4490.97,INR,Shopping,Clothes,Clothes expense,UPI,Paytm,TXN397893,Kirti,"Sakshi, Kirti",2245.49,Yes,No,,No,Pune,birthday,Paid during birthday,Daily,user,pass
+25-11-2024,2957.05,INR,Entertainment,Movie,Movie expense,Credit Card,Paytm,TXN354918,Amit,Kirti,2957.05,Yes,Yes,Monthly,Yes,Mumbai,"festival, urgent",Paid during festival,Essentials,user,pass
+20-12-2024,250.02,INR,Shopping,Clothes,Clothes expense,UPI,PhonePe,TXN350672,Amit,"Kirti, Amit",125.01,Yes,Yes,Weekly,Yes,Pune,urgent,Paid during urgent,Essentials,user,pass
+29-03-2025,670.12,INR,Transport,Train,Train expense,Wallet,PhonePe,TXN945063,Sakshi,"Amit, Akanksha",335.06,No,Yes,None,No,Navi Mumbai,urgent,Paid during urgent,Luxury,user,pass
+25-01-2025,1173.59,INR,Food,Groceries,Groceries expense,Credit Card,SBI,TXN222440,Amit,"Kirti, Akanksha",586.79,Yes,Yes,None,No,Pune,hostel,Paid during hostel,Essentials,user,pass
+23-11-2024,4766.48,INR,Food,Restaurant,Restaurant expense,UPI,HDFC,TXN842938,Kirti,"Amit, Kirti, Akanksha",1588.83,Yes,Yes,Monthly,Yes,Navi Mumbai,urgent,Paid during urgent,Monthly,user,pass
+16-11-2024,773.15,INR,Education,Books,Books expense,Debit Card,Google Pay,TXN388840,Sakshi,"Sakshi, Amit",386.57,No,Yes,Weekly,Yes,Pune,birthday,Paid during birthday,Daily,user,pass
+12-12-2024,4151.27,INR,Health,Medicines,Medicines expense,UPI,Paytm,TXN415964,Akanksha,"Amit, Kirti",2075.64,Yes,Yes,Monthly,No,Navi Mumbai,"college, festival",Paid during college,Luxury,user,pass
+03-11-2024,4364,INR,Transport,Auto,Auto expense,Debit Card,Google Pay,TXN489640,Sakshi,Akanksha,4364,No,No,,No,Navi Mumbai,birthday,Paid during birthday,Monthly,user,pass
+05-03-2025,2259.2,INR,Food,Restaurant,Restaurant expense,Cash,PhonePe,,Amit,"Amit, Akanksha",1129.6,Yes,Yes,None,Yes,Hyderabad,festival,Paid during festival,Daily,user,pass
+13-10-2024,862.85,INR,Transport,Auto,Auto expense,UPI,PhonePe,TXN416586,Sakshi,Akanksha,862.85,No,Yes,Monthly,Yes,Hyderabad,hostel,Paid during hostel,Monthly,user,pass
+28-10-2024,1756.49,INR,Entertainment,Movie,Movie expense,Debit Card,Google Pay,TXN601188,Akanksha,Kirti,1756.49,Yes,Yes,None,No,Navi Mumbai,"college, festival",Paid during college,Luxury,user,pass
+22-02-2025,3550.14,INR,Shopping,Clothes,Clothes expense,Cash,PhonePe,,Sakshi,"Akanksha, Sakshi",1775.07,No,No,,Yes,Pune,urgent,Paid during urgent,Monthly,user,pass
+12-11-2024,2216.51,INR,Education,Books,Books expense,Wallet,HDFC,TXN929522,Sakshi,"Akanksha, Amit",1108.26,No,No,,No,Navi Mumbai,hostel,Paid during hostel,Luxury,user,pass
+29-12-2024,1019.03,INR,Shopping,Clothes,Clothes expense,UPI,Paytm,TXN197359,Amit,"Amit, Kirti, Akanksha",339.68,Yes,No,,Yes,Navi Mumbai,urgent,Paid during urgent,Essentials,user,pass
+23-03-2025,4074.88,INR,Shopping,Clothes,Clothes expense,UPI,SBI,TXN717172,Kirti,"Kirti, Akanksha",2037.44,Yes,No,,No,Pune,festival,Paid during festival,Essentials,user,pass
+30-01-2025,4400.2,INR,Health,Medicines,Medicines expense,UPI,SBI,TXN237124,Kirti,"Akanksha, Sakshi, Kirti",1466.73,Yes,No,,No,Navi Mumbai,festival,Paid during festival,Luxury,user,pass
+18-02-2025,3551.41,INR,Food,Groceries,Groceries expense,UPI,SBI,TXN713714,Amit,"Kirti, Sakshi, Amit",1183.8,Yes,No,,Yes,Navi Mumbai,college,Paid during college,Luxury,user,pass
+27-10-2024,2284.13,INR,Education,Books,Books expense,Wallet,HDFC,TXN105836,Amit,"Akanksha, Amit, Sakshi",761.38,No,Yes,Weekly,No,Pune,urgent,Paid during urgent,Daily,user,pass
+12-01-2025,1890.68,INR,Transport,Train,Train expense,Wallet,HDFC,TXN631831,Akanksha,"Akanksha, Amit",945.34,Yes,No,,No,Hyderabad,"college, hostel",Paid during college,Essentials,user,pass
+16-12-2024,4052.76,INR,Food,Groceries,Groceries expense,UPI,PhonePe,TXN363963,Akanksha,"Akanksha, Amit, Sakshi",1350.92,Yes,Yes,Weekly,No,Mumbai,"birthday, urgent",Paid during birthday,Luxury,user,pass
+31-01-2025,857.37,INR,Transport,Train,Train expense,Wallet,HDFC,TXN610230,Sakshi,"Sakshi, Akanksha",428.69,No,Yes,Monthly,Yes,Hyderabad,"birthday, college",Paid during birthday,Essentials,user,pass
+25-03-2025,4239.34,INR,Bills,Electricity,Electricity expense,Debit Card,PhonePe,TXN128301,Kirti,"Kirti, Akanksha, Sakshi",1413.11,No,No,,No,Navi Mumbai,"festival, hostel",Paid during festival,Monthly,user,pass
+05-02-2025,2162.45,INR,Bills,Electricity,Electricity expense,Cash,Google Pay,,Akanksha,"Kirti, Sakshi, Amit",720.82,Yes,No,,No,Pune,urgent,Paid during urgent,Essentials,user,pass
+13-12-2024,824.6,INR,Transport,Auto,Auto expense,Wallet,PhonePe,TXN617269,Akanksha,Sakshi,824.6,Yes,Yes,Weekly,Yes,Mumbai,urgent,Paid during urgent,Daily,user,pass
+30-10-2024,4561.39,INR,Bills,Electricity,Electricity expense,Wallet,Google Pay,TXN249270,Kirti,Kirti,4561.39,No,Yes,Monthly,Yes,Mumbai,"birthday, festival",Paid during birthday,Daily,user,pass
+04-01-2025,2637.06,INR,Entertainment,Movie,Movie expense,Wallet,Google Pay,TXN542295,Sakshi,"Amit, Kirti",1318.53,No,No,,No,Pune,urgent,Paid during urgent,Essentials,user,pass
+28-01-2025,2558.18,INR,Bills,Electricity,Electricity expense,Wallet,PhonePe,TXN445227,Kirti,Akanksha,2558.18,Yes,No,,No,Navi Mumbai,hostel,Paid during hostel,Monthly,user,pass
+19-03-2025,3670.99,INR,Food,Groceries,Groceries expense,Wallet,SBI,TXN709366,Akanksha,"Kirti, Sakshi, Amit",1223.66,No,Yes,Weekly,No,Navi Mumbai,"festival, birthday",Paid during festival,Essentials,user,pass
+13-02-2025,4113.8,INR,Shopping,Clothes,Clothes expense,Debit Card,SBI,TXN314721,Akanksha,"Sakshi, Kirti",2056.9,No,Yes,Monthly,Yes,Navi Mumbai,hostel,Paid during hostel,Monthly,user,pass
+11-10-2024,1952.67,INR,Transport,Train,Train expense,Cash,SBI,,Amit,"Kirti, Amit, Sakshi",650.89,Yes,Yes,None,No,Hyderabad,urgent,Paid during urgent,Luxury,user,pass
+25-03-2025,1852.61,INR,Food,Groceries,Groceries expense,UPI,PhonePe,TXN362404,Akanksha,"Sakshi, Akanksha",926.3,Yes,No,,No,Navi Mumbai,birthday,Paid during birthday,Daily,user,pass
+23-02-2025,1492.21,INR,Food,Restaurant,Restaurant expense,UPI,HDFC,TXN559506,Amit,"Kirti, Akanksha",746.11,Yes,No,,No,Navi Mumbai,hostel,Paid during hostel,Luxury,user,pass
+06-02-2025,3183.88,INR,Transport,Train,Train expense,UPI,Paytm,TXN557681,Akanksha,Kirti,3183.88,No,No,,Yes,Mumbai,birthday,Paid during birthday,Monthly,user,pass
+08-02-2025,1076.08,INR,Shopping,Clothes,Clothes expense,Wallet,Google Pay,TXN604818,Kirti,Kirti,1076.08,Yes,Yes,Monthly,No,Mumbai,"birthday, festival",Paid during birthday,Daily,user,pass
+22-12-2024,1707.58,INR,Entertainment,Movie,Movie expense,Cash,Paytm,,Sakshi,"Akanksha, Amit, Kirti",569.19,Yes,Yes,None,No,Mumbai,festival,Paid during festival,Essentials,user,pass
+19-10-2024,100.37,INR,Shopping,Clothes,Clothes expense,Credit Card,Google Pay,TXN375479,Amit,Sakshi,100.37,No,No,,No,Mumbai,"urgent, hostel",Paid during urgent,Monthly,user,pass
+29-10-2024,3175.33,INR,Entertainment,Movie,Movie expense,Debit Card,Google Pay,TXN842890,Kirti,"Amit, Akanksha",1587.66,No,Yes,Monthly,Yes,Pune,urgent,Paid during urgent,Daily,user,pass
+13-01-2025,1331.38,INR,Entertainment,Movie,Movie expense,Cash,SBI,,Akanksha,Kirti,1331.38,No,No,,No,Navi Mumbai,"birthday, hostel",Paid during birthday,Luxury,user,pass
+30-03-2025,2587.62,INR,Food,Restaurant,Restaurant expense,UPI,HDFC,TXN858767,Sakshi,"Sakshi, Kirti",1293.81,No,Yes,Weekly,Yes,Hyderabad,hostel,Paid during hostel,Monthly,user,pass
+13-11-2024,1835.04,INR,Bills,Electricity,Electricity expense,Credit Card,Google Pay,TXN847849,Akanksha,"Amit, Kirti",917.52,No,Yes,Monthly,Yes,Pune,birthday,Paid during birthday,Daily,user,pass
+18-10-2024,2398.91,INR,Food,Restaurant,Restaurant expense,Credit Card,HDFC,TXN821669,Akanksha,"Amit, Sakshi",1199.45,No,Yes,None,No,Navi Mumbai,urgent,Paid during urgent,Daily,user,pass
+31-01-2025,3203.63,INR,Shopping,Clothes,Clothes expense,Credit Card,SBI,TXN545459,Kirti,Sakshi,3203.63,No,Yes,Monthly,Yes,Navi Mumbai,festival,Paid during festival,Luxury,user,pass
+07-11-2024,644.27,INR,Food,Restaurant,Restaurant expense,Wallet,SBI,TXN144428,Akanksha,Amit,644.27,Yes,Yes,Weekly,Yes,Hyderabad,"college, hostel",Paid during college,Luxury,user,pass
+11-01-2025,3781.9,INR,Bills,Electricity,Electricity expense,Cash,Google Pay,,Amit,Sakshi,3781.9,No,No,,No,Hyderabad,urgent,Paid during urgent,Essentials,user,pass
+27-01-2025,4043.01,INR,Food,Restaurant,Restaurant expense,Debit Card,PhonePe,TXN754610,Akanksha,"Akanksha, Amit, Sakshi",1347.67,Yes,Yes,Weekly,No,Pune,"birthday, festival",Paid during birthday,Luxury,user,pass
+13-12-2024,2732.37,INR,Shopping,Clothes,Clothes expense,Credit Card,Google Pay,TXN331334,Sakshi,"Sakshi, Kirti, Amit",910.79,Yes,No,,No,Pune,urgent,Paid during urgent,Monthly,user,pass
+31-03-2025,3104.13,INR,Food,Groceries,Groceries expense,Debit Card,HDFC,TXN215640,Akanksha,"Sakshi, Kirti",1552.07,No,No,,No,Mumbai,festival,Paid during festival,Essentials,user,pass
+12-01-2025,2893.87,INR,Food,Groceries,Groceries expense,Wallet,SBI,TXN766287,Amit,Akanksha,2893.87,Yes,Yes,Monthly,No,Hyderabad,"urgent, festival",Paid during urgent,Daily,user,pass
+15-10-2024,3310.44,INR,Transport,Train,Train expense,Credit Card,HDFC,TXN836240,Akanksha,"Sakshi, Akanksha, Amit",1103.48,Yes,Yes,Weekly,No,Navi Mumbai,birthday,Paid during birthday,Essentials,user,pass
+31-03-2025,542.14,INR,Entertainment,Movie,Movie expense,Cash,SBI,,Kirti,"Sakshi, Kirti",271.07,Yes,No,,Yes,Mumbai,festival,Paid during festival,Daily,user,pass
+13-02-2025,3972.69,INR,Transport,Train,Train expense,Wallet,SBI,TXN238886,Sakshi,Amit,3972.69,Yes,No,,No,Mumbai,birthday,Paid during birthday,Monthly,user,pass
+17-12-2024,612.23,INR,Food,Groceries,Groceries expense,Cash,Google Pay,,Akanksha,Sakshi,612.23,Yes,No,,No,Mumbai,"college, festival",Paid during college,Daily,user,pass
+01-02-2025,1524.36,INR,Shopping,Clothes,Clothes expense,Wallet,Google Pay,TXN471201,Kirti,"Sakshi, Kirti, Amit",508.12,Yes,Yes,Weekly,No,Mumbai,birthday,Paid during birthday,Monthly,user,pass
+11-03-2025,1904.69,INR,Health,Medicines,Medicines expense,Cash,Paytm,,Kirti,"Akanksha, Kirti, Sakshi",634.9,Yes,Yes,None,Yes,Navi Mumbai,birthday,Paid during birthday,Daily,user,pass
+23-10-2024,4600.55,INR,Food,Groceries,Groceries expense,Debit Card,PhonePe,TXN285677,Sakshi,Sakshi,4600.55,No,No,,Yes,Pune,festival,Paid during festival,Daily,user,pass
+31-01-2025,1987.78,INR,Bills,Electricity,Electricity expense,Wallet,PhonePe,TXN765543,Kirti,"Akanksha, Sakshi, Amit",662.59,No,No,,Yes,Mumbai,birthday,Paid during birthday,Monthly,user,pass
+16-11-2024,2086.27,INR,Shopping,Clothes,Clothes expense,Wallet,Google Pay,TXN483787,Kirti,"Amit, Kirti",1043.13,Yes,No,,Yes,Mumbai,"college, birthday",Paid during college,Daily,user,pass
+22-11-2024,4155.28,INR,Transport,Auto,Auto expense,Wallet,Google Pay,TXN645388,Sakshi,"Sakshi, Kirti",2077.64,Yes,No,,No,Hyderabad,"urgent, birthday",Paid during urgent,Luxury,user,pass
+21-12-2024,1709.24,INR,Transport,Train,Train expense,Credit Card,SBI,TXN718584,Akanksha,Sakshi,1709.24,No,Yes,None,Yes,Pune,"urgent, college",Paid during urgent,Luxury,user,pass
+15-10-2024,4993,INR,Entertainment,Movie,Movie expense,Wallet,PhonePe,TXN412966,Sakshi,"Sakshi, Kirti",2496.5,Yes,No,,Yes,Navi Mumbai,birthday,Paid during birthday,Monthly,user,pass
+09-02-2025,1375.67,INR,Bills,Electricity,Electricity expense,Wallet,HDFC,TXN870818,Sakshi,Sakshi,1375.67,Yes,No,,No,Navi Mumbai,"birthday, festival",Paid during birthday,Essentials,user,pass
+18-11-2024,570.72,INR,Shopping,Clothes,Clothes expense,Cash,SBI,,Amit,"Amit, Akanksha, Kirti",190.24,No,Yes,Monthly,No,Pune,festival,Paid during festival,Essentials,user,pass
+17-01-2025,1451.05,INR,Education,Books,Books expense,Credit Card,Google Pay,TXN540176,Akanksha,Kirti,1451.05,Yes,Yes,Weekly,No,Hyderabad,birthday,Paid during birthday,Monthly,user,pass
+14-03-2025,2706.46,INR,Shopping,Clothes,Clothes expense,Credit Card,Google Pay,TXN742049,Kirti,"Kirti, Sakshi, Amit",902.15,Yes,Yes,Monthly,No,Pune,"college, festival",Paid during college,Luxury,user,pass
+06-04-2025,2364.36,INR,Transport,Auto,Auto expense,Debit Card,HDFC,TXN311864,Amit,Sakshi,2364.36,No,Yes,Weekly,No,Hyderabad,urgent,Paid during urgent,Monthly,user,pass
+13-11-2024,1139.96,INR,Entertainment,Movie,Movie expense,Cash,SBI,,Sakshi,"Kirti, Akanksha",569.98,No,Yes,Monthly,No,Hyderabad,"hostel, festival",Paid during hostel,Luxury,user,pass
+23-02-2025,4518.15,INR,Entertainment,Movie,Movie expense,Debit Card,Google Pay,TXN422662,Kirti,"Amit, Akanksha",2259.07,No,No,,No,Hyderabad,college,Paid during college,Monthly,user,pass
+18-12-2024,4745.42,INR,Bills,Electricity,Electricity expense,Wallet,HDFC,TXN491686,Kirti,"Sakshi, Kirti, Amit",1581.81,No,No,,No,Pune,"festival, urgent",Paid during festival,Daily,user,pass
+12-12-2024,3773.89,INR,Food,Restaurant,Restaurant expense,UPI,SBI,TXN352253,Sakshi,Amit,3773.89,Yes,Yes,Weekly,No,Hyderabad,"festival, birthday",Paid during festival,Monthly,user,pass
+01-02-2025,4394.85,INR,Health,Medicines,Medicines expense,Debit Card,SBI,TXN576077,Amit,"Akanksha, Kirti, Sakshi",1464.95,No,Yes,Weekly,No,Hyderabad,"birthday, festival",Paid during birthday,Monthly,user,pass
+28-03-2025,2141.83,INR,Health,Medicines,Medicines expense,UPI,HDFC,TXN758002,Amit,"Kirti, Akanksha",1070.91,Yes,No,,Yes,Navi Mumbai,"festival, college",Paid during festival,Monthly,user,pass
+22-02-2025,4787.49,INR,Shopping,Clothes,Clothes expense,Debit Card,HDFC,TXN916170,Amit,Akanksha,4787.49,Yes,Yes,Monthly,No,Mumbai,festival,Paid during festival,Daily,user,pass
+31-01-2025,1846.55,INR,Food,Restaurant,Restaurant expense,Cash,Paytm,,Akanksha,Sakshi,1846.55,No,Yes,Monthly,No,Pune,"urgent, college",Paid during urgent,Luxury,user,pass
+08-01-2025,317.4,INR,Health,Medicines,Medicines expense,Debit Card,PhonePe,TXN366452,Sakshi,"Amit, Sakshi, Akanksha",105.8,Yes,Yes,Weekly,Yes,Mumbai,birthday,Paid during birthday,Luxury,user,pass
+18-01-2025,2754.34,INR,Education,Books,Books expense,Debit Card,Google Pay,TXN404303,Sakshi,"Sakshi, Kirti",1377.17,Yes,No,,Yes,Navi Mumbai,college,Paid during college,Daily,user,pass
+24-03-2025,3894.1,INR,Bills,Electricity,Electricity expense,UPI,Paytm,TXN128233,Akanksha,"Sakshi, Kirti, Akanksha",1298.03,Yes,No,,Yes,Navi Mumbai,"hostel, festival",Paid during hostel,Essentials,user,pass
+20-12-2024,4893.02,INR,Education,Books,Books expense,Credit Card,Paytm,TXN470526,Sakshi,"Kirti, Sakshi, Amit",1631.01,Yes,Yes,Monthly,No,Navi Mumbai,"birthday, college",Paid during birthday,Essentials,user,pass
+05-11-2024,103.12,INR,Entertainment,Movie,Movie expense,Cash,SBI,,Akanksha,"Amit, Kirti, Akanksha",34.37,Yes,Yes,None,Yes,Navi Mumbai,urgent,Paid during urgent,Monthly,user,pass
+09-02-2025,2034.87,INR,Food,Groceries,Groceries expense,Credit Card,PhonePe,TXN219787,Akanksha,"Amit, Akanksha, Sakshi",678.29,Yes,No,,Yes,Mumbai,college,Paid during college,Luxury,user,pass
+05-04-2025,2871.49,INR,Shopping,Clothes,Clothes expense,Debit Card,PhonePe,TXN105402,Akanksha,Kirti,2871.49,No,Yes,Monthly,No,Pune,urgent,Paid during urgent,Luxury,user,pass
+09-02-2025,3543.76,INR,Food,Restaurant,Restaurant expense,Wallet,SBI,TXN515200,Sakshi,"Akanksha, Kirti",1771.88,Yes,No,,No,Mumbai,"festival, urgent",Paid during festival,Essentials,user,pass
+08-04-2025,3862.2,INR,Entertainment,Movie,Movie expense,Wallet,Paytm,TXN521209,Sakshi,Sakshi,3862.2,Yes,Yes,Monthly,No,Navi Mumbai,"hostel, festival",Paid during hostel,Essentials,user,pass
+15-12-2024,4826.86,INR,Entertainment,Movie,Movie expense,Debit Card,SBI,TXN981475,Sakshi,Kirti,4826.86,Yes,No,,No,Hyderabad,"hostel, birthday",Paid during hostel,Monthly,user,pass
+05-12-2024,2753.17,INR,Health,Medicines,Medicines expense,Cash,SBI,,Amit,"Akanksha, Amit, Kirti",917.72,Yes,No,,No,Mumbai,"festival, urgent",Paid during festival,Monthly,user,pass
+16-10-2024,174.38,INR,Education,Books,Books expense,Wallet,HDFC,TXN832794,Sakshi,"Kirti, Akanksha, Sakshi",58.13,Yes,Yes,None,No,Navi Mumbai,"festival, hostel",Paid during festival,Essentials,user,pass
+25-01-2025,3816.07,INR,Transport,Train,Train expense,Cash,PhonePe,,Amit,Amit,3816.07,Yes,No,,No,Navi Mumbai,"college, urgent",Paid during college,Luxury,user,pass
+15-12-2024,3814.68,INR,Transport,Train,Train expense,Wallet,Google Pay,TXN403257,Amit,"Amit, Kirti",1907.34,No,No,,Yes,Mumbai,"festival, birthday",Paid during festival,Luxury,user,pass
+24-02-2025,775.41,INR,Shopping,Clothes,Clothes expense,Debit Card,Paytm,TXN510337,Kirti,"Akanksha, Amit, Sakshi",258.47,Yes,Yes,Weekly,Yes,Navi Mumbai,festival,Paid during festival,Monthly,user,pass
+20-10-2024,1066.95,INR,Shopping,Clothes,Clothes expense,Wallet,Paytm,TXN909695,Akanksha,Akanksha,1066.95,No,Yes,None,Yes,Navi Mumbai,"college, festival",Paid during college,Essentials,user,pass
+20-11-2024,3473.83,INR,Entertainment,Movie,Movie expense,Wallet,SBI,TXN438452,Akanksha,Sakshi,3473.83,No,Yes,Weekly,Yes,Navi Mumbai,"urgent, birthday",Paid during urgent,Monthly,user,pass
+23-02-2025,3220.4,INR,Food,Restaurant,Restaurant expense,UPI,PhonePe,TXN356719,Amit,"Sakshi, Kirti",1610.2,Yes,Yes,Weekly,Yes,Hyderabad,"festival, urgent",Paid during festival,Monthly,user,pass
+20-12-2024,4105.14,INR,Transport,Train,Train expense,Debit Card,PhonePe,TXN384719,Sakshi,"Sakshi, Akanksha, Amit",1368.38,No,No,,Yes,Pune,"college, birthday",Paid during college,Monthly,user,pass
+21-03-2025,2763.77,INR,Food,Groceries,Groceries expense,Credit Card,Google Pay,TXN504423,Akanksha,"Kirti, Akanksha, Amit",921.26,No,No,,Yes,Hyderabad,"birthday, festival",Paid during birthday,Luxury,user,pass
+31-03-2025,2298.27,INR,Shopping,Clothes,Clothes expense,Debit Card,HDFC,TXN818979,Akanksha,Kirti,2298.27,No,Yes,Monthly,No,Mumbai,birthday,Paid during birthday,Luxury,user,pass
+08-03-2025,3225.31,INR,Entertainment,Movie,Movie expense,Wallet,Paytm,TXN581107,Akanksha,"Akanksha, Amit",1612.65,No,No,,Yes,Mumbai,"hostel, college",Paid during hostel,Daily,user,pass
+28-11-2024,3815.77,INR,Food,Restaurant,Restaurant expense,Wallet,SBI,TXN807937,Sakshi,Amit,3815.77,Yes,Yes,Monthly,Yes,Pune,"hostel, festival",Paid during hostel,Daily,user,pass
+29-03-2025,930.12,INR,Health,Medicines,Medicines expense,UPI,SBI,TXN636408,Akanksha,"Kirti, Sakshi",465.06,Yes,No,,Yes,Navi Mumbai,urgent,Paid during urgent,Monthly,user,pass
+21-01-2025,297.48,INR,Food,Restaurant,Restaurant expense,Debit Card,Paytm,TXN812848,Amit,"Kirti, Sakshi, Akanksha",99.16,No,No,,No,Pune,"birthday, college",Paid during birthday,Monthly,user,pass
+26-02-2025,2233.56,INR,Food,Groceries,Groceries expense,Cash,SBI,,Akanksha,"Akanksha, Kirti, Amit",744.52,Yes,Yes,None,Yes,Mumbai,"urgent, birthday",Paid during urgent,Luxury,user,pass
+11-02-2025,2373.94,INR,Bills,Electricity,Electricity expense,Credit Card,HDFC,TXN264826,Amit,Amit,2373.94,No,No,,No,Mumbai,urgent,Paid during urgent,Essentials,user,pass
+01-04-2025,4496.08,INR,Transport,Auto,Auto expense,Cash,Google Pay,,Sakshi,"Amit, Akanksha, Kirti",1498.69,No,No,,No,Mumbai,"birthday, festival",Paid during birthday,Essentials,user,pass
+04-04-2025,3544.11,INR,Bills,Electricity,Electricity expense,Credit Card,SBI,TXN331457,Amit,"Sakshi, Amit",1772.06,No,No,,Yes,Mumbai,birthday,Paid during birthday,Essentials,user,pass
+24-11-2024,448.66,INR,Transport,Train,Train expense,Cash,HDFC,,Sakshi,"Amit, Sakshi, Kirti",149.55,No,No,,Yes,Pune,"college, urgent",Paid during college,Essentials,user,pass
+18-12-2024,2125.37,INR,Bills,Electricity,Electricity expense,Cash,Paytm,,Kirti,"Sakshi, Amit",1062.68,Yes,No,,Yes,Hyderabad,birthday,Paid during birthday,Luxury,user,pass
+14-11-2024,2361.5,INR,Education,Books,Books expense,Debit Card,SBI,TXN812756,Kirti,"Akanksha, Kirti, Amit",787.17,No,Yes,Weekly,Yes,Navi Mumbai,"festival, hostel",Paid during festival,Daily,user,pass
+25-12-2024,4318.42,INR,Entertainment,Movie,Movie expense,Cash,Google Pay,,Amit,"Amit, Sakshi",2159.21,Yes,Yes,Monthly,Yes,Mumbai,college,Paid during college,Luxury,user,pass
+14-01-2025,2521.44,INR,Transport,Auto,Auto expense,Cash,PhonePe,,Sakshi,"Akanksha, Kirti, Amit",840.48,No,Yes,Weekly,Yes,Navi Mumbai,college,Paid during college,Daily,user,pass
+29-12-2024,4036.53,INR,Food,Groceries,Groceries expense,Cash,SBI,,Amit,"Sakshi, Kirti, Akanksha",1345.51,No,No,,Yes,Navi Mumbai,festival,Paid during festival,Daily,user,pass
+12-10-2024,3938.75,INR,Food,Restaurant,Restaurant expense,UPI,Google Pay,TXN717116,Sakshi,"Sakshi, Kirti, Akanksha",1312.92,No,No,,Yes,Pune,hostel,Paid during hostel,Essentials,user,pass
+30-11-2024,3234.63,INR,Transport,Auto,Auto expense,Credit Card,PhonePe,TXN619661,Akanksha,Kirti,3234.63,Yes,No,,Yes,Navi Mumbai,"birthday, urgent",Paid during birthday,Luxury,user,pass
+18-01-2025,258.94,INR,Bills,Electricity,Electricity expense,Cash,Google Pay,,Akanksha,"Akanksha, Amit",129.47,Yes,No,,Yes,Mumbai,"birthday, urgent",Paid during birthday,Monthly,user,pass
+16-12-2024,2381.41,INR,Transport,Train,Train expense,Debit Card,SBI,TXN623598,Sakshi,"Akanksha, Amit",1190.7,No,No,,Yes,Mumbai,"hostel, festival",Paid during hostel,Monthly,user,pass
+26-02-2025,4952.6,INR,Health,Medicines,Medicines expense,Debit Card,PhonePe,TXN715657,Akanksha,"Sakshi, Akanksha",2476.3,No,No,,No,Pune,"college, birthday",Paid during college,Luxury,user,pass
+02-03-2025,3752.7,INR,Education,Books,Books expense,Credit Card,HDFC,TXN360373,Amit,"Amit, Kirti",1876.35,No,No,,Yes,Navi Mumbai,"festival, birthday",Paid during festival,Monthly,user,pass
+17-03-2025,3591.7,INR,Transport,Auto,Auto expense,UPI,Paytm,TXN856085,Kirti,Kirti,3591.7,Yes,No,,Yes,Hyderabad,festival,Paid during festival,Monthly,user,pass
+19-02-2025,1832.56,INR,Health,Medicines,Medicines expense,UPI,PhonePe,TXN999402,Kirti,Kirti,1832.56,Yes,No,,No,Mumbai,"urgent, birthday",Paid during urgent,Daily,user,pass
+08-12-2024,3539.28,INR,Entertainment,Movie,Movie expense,Cash,Paytm,,Sakshi,"Akanksha, Amit, Kirti",1179.76,Yes,No,,Yes,Hyderabad,"festival, urgent",Paid during festival,Essentials,user,pass
+08-03-2025,655.04,INR,Transport,Auto,Auto expense,UPI,Paytm,TXN509665,Sakshi,"Kirti, Amit, Akanksha",218.35,No,Yes,None,Yes,Mumbai,urgent,Paid during urgent,Luxury,user,pass
+18-11-2024,2405.33,INR,Food,Restaurant,Restaurant expense,UPI,SBI,TXN379712,Amit,"Amit, Sakshi, Akanksha",801.78,Yes,No,,Yes,Hyderabad,festival,Paid during festival,Daily,user,pass
+13-12-2024,2231.9,INR,Health,Medicines,Medicines expense,Debit Card,Paytm,TXN630814,Akanksha,"Amit, Akanksha",1115.95,No,Yes,Weekly,No,Hyderabad,"birthday, urgent",Paid during birthday,Luxury,user,pass
+02-12-2024,1006.39,INR,Food,Groceries,Groceries expense,Credit Card,SBI,TXN688126,Sakshi,"Sakshi, Amit",503.19,Yes,Yes,Monthly,No,Mumbai,hostel,Paid during hostel,Essentials,user,pass
+16-11-2024,2056.78,INR,Education,Books,Books expense,Wallet,Google Pay,TXN327948,Akanksha,Kirti,2056.78,No,Yes,Weekly,No,Mumbai,birthday,Paid during birthday,Daily,user,pass
+11-10-2024,1052.66,INR,Shopping,Clothes,Clothes expense,Cash,PhonePe,,Amit,Akanksha,1052.66,Yes,No,,Yes,Pune,"birthday, festival",Paid during birthday,Essentials,user,pass
+25-10-2024,1381.1,INR,Transport,Train,Train expense,Debit Card,SBI,TXN889298,Kirti,"Sakshi, Amit",690.55,Yes,Yes,Monthly,Yes,Mumbai,festival,Paid during festival,Essentials,user,pass
+31-03-2025,786.29,INR,Transport,Auto,Auto expense,Debit Card,Paytm,TXN164517,Akanksha,"Amit, Sakshi",393.14,No,No,,No,Navi Mumbai,"college, birthday",Paid during college,Essentials,user,pass
+09-01-2025,3684,INR,Bills,Electricity,Electricity expense,Credit Card,SBI,TXN419658,Sakshi,"Sakshi, Akanksha",1842,No,No,,No,Pune,festival,Paid during festival,Daily,user,pass
+19-11-2024,117.61,INR,Health,Medicines,Medicines expense,UPI,HDFC,TXN352567,Sakshi,"Amit, Kirti",58.8,No,Yes,None,No,Hyderabad,urgent,Paid during urgent,Monthly,user,pass
+15-02-2025,2945.87,INR,Bills,Electricity,Electricity expense,UPI,SBI,TXN294119,Amit,Akanksha,2945.87,Yes,Yes,None,No,Pune,urgent,Paid during urgent,Luxury,user,pass
+05-03-2025,3620.09,INR,Entertainment,Movie,Movie expense,Credit Card,PhonePe,TXN298168,Amit,"Sakshi, Amit",1810.05,Yes,No,,No,Mumbai,urgent,Paid during urgent,Essentials,user,pass
+16-11-2024,1062.84,INR,Shopping,Clothes,Clothes expense,UPI,Google Pay,TXN533684,Akanksha,Amit,1062.84,Yes,Yes,Weekly,No,Pune,hostel,Paid during hostel,Monthly,user,pass
+02-01-2025,3350.24,INR,Shopping,Clothes,Clothes expense,Debit Card,Google Pay,TXN833681,Akanksha,"Amit, Sakshi, Kirti",1116.75,No,No,,No,Hyderabad,college,Paid during college,Luxury,user,pass
+02-01-2025,2409.17,INR,Food,Restaurant,Restaurant expense,Cash,HDFC,,Kirti,"Amit, Akanksha",1204.59,No,No,,No,Navi Mumbai,festival,Paid during festival,Monthly,user,pass
+29-12-2024,2643.96,INR,Education,Books,Books expense,Wallet,PhonePe,TXN556752,Amit,"Kirti, Amit, Akanksha",881.32,No,No,,No,Hyderabad,"college, urgent",Paid during college,Luxury,user,pass
+22-11-2024,4904.44,INR,Education,Books,Books expense,UPI,SBI,TXN210028,Amit,"Akanksha, Sakshi",2452.22,Yes,Yes,Monthly,No,Hyderabad,"festival, birthday",Paid during festival,Luxury,user,pass
+03-01-2025,4851.96,INR,Shopping,Clothes,Clothes expense,Wallet,Google Pay,TXN846070,Amit,"Amit, Kirti",2425.98,No,Yes,Weekly,No,Pune,"college, hostel",Paid during college,Essentials,user,pass
+31-01-2025,3084.78,INR,Shopping,Clothes,Clothes expense,UPI,Google Pay,TXN279041,Kirti,"Kirti, Amit",1542.39,Yes,No,,No,Hyderabad,"birthday, urgent",Paid during birthday,Luxury,user,pass
+02-04-2025,4052.36,INR,Bills,Electricity,Electricity expense,Wallet,HDFC,TXN170118,Akanksha,"Akanksha, Kirti, Sakshi",1350.79,Yes,No,,No,Pune,hostel,Paid during hostel,Monthly,user,pass
+28-01-2025,2652.89,INR,Food,Restaurant,Restaurant expense,UPI,PhonePe,TXN300236,Akanksha,Amit,2652.89,Yes,No,,No,Navi Mumbai,hostel,Paid during hostel,Essentials,user,pass
+03-01-2025,981.92,INR,Food,Restaurant,Restaurant expense,Cash,SBI,,Amit,"Sakshi, Kirti, Amit",327.31,No,No,,No,Hyderabad,college,Paid during college,Monthly,user,pass
+17-03-2025,557.62,INR,Transport,Train,Train expense,Credit Card,Paytm,TXN440388,Akanksha,"Kirti, Sakshi, Amit",185.87,No,No,,No,Navi Mumbai,festival,Paid during festival,Luxury,user,pass
+28-12-2024,421.35,INR,Entertainment,Movie,Movie expense,Debit Card,SBI,TXN631941,Akanksha,"Sakshi, Kirti, Amit",140.45,No,Yes,None,Yes,Navi Mumbai,"hostel, urgent",Paid during hostel,Essentials,user,pass
+14-12-2024,1700.91,INR,Bills,Electricity,Electricity expense,Cash,SBI,,Kirti,"Kirti, Amit, Akanksha",566.97,Yes,Yes,None,No,Navi Mumbai,"birthday, festival",Paid during birthday,Essentials,user,pass
+08-11-2024,4684.23,INR,Transport,Auto,Auto expense,UPI,Google Pay,TXN951711,Amit,Sakshi,4684.23,No,No,,No,Hyderabad,college,Paid during college,Essentials,user,pass
+03-01-2025,4060.07,INR,Bills,Electricity,Electricity expense,Wallet,Paytm,TXN115014,Akanksha,"Amit, Akanksha",2030.04,No,No,,No,Pune,"birthday, college",Paid during birthday,Daily,user,pass
+03-01-2025,1770.98,INR,Education,Books,Books expense,Cash,Paytm,,Sakshi,"Kirti, Amit",885.49,Yes,Yes,None,No,Mumbai,"urgent, college",Paid during urgent,Daily,user,pass
+06-03-2025,1167.36,INR,Food,Restaurant,Restaurant expense,Credit Card,HDFC,TXN838323,Akanksha,"Amit, Sakshi",583.68,No,Yes,Weekly,Yes,Pune,college,Paid during college,Daily,user,pass
+17-12-2024,974.04,INR,Bills,Electricity,Electricity expense,Cash,Google Pay,,Sakshi,"Amit, Kirti, Akanksha",324.68,No,No,,Yes,Navi Mumbai,college,Paid during college,Daily,user,pass
+08-12-2024,989.57,INR,Transport,Auto,Auto expense,UPI,HDFC,TXN773149,Akanksha,Amit,989.57,Yes,No,,Yes,Pune,hostel,Paid during hostel,Luxury,user,pass
+12-12-2024,715.09,INR,Education,Books,Books expense,Wallet,SBI,TXN730214,Sakshi,Sakshi,715.09,Yes,Yes,None,No,Pune,hostel,Paid during hostel,Monthly,user,pass
+31-03-2025,950.59,INR,Transport,Auto,Auto expense,UPI,HDFC,TXN162742,Kirti,Kirti,950.59,No,Yes,Weekly,No,Pune,hostel,Paid during hostel,Essentials,user,pass
+04-03-2025,279.53,INR,Transport,Train,Train expense,Debit Card,SBI,TXN714388,Sakshi,"Amit, Kirti",139.76,Yes,Yes,Weekly,Yes,Pune,"college, festival",Paid during college,Daily,user,pass
+19-01-2025,4661.08,INR,Transport,Auto,Auto expense,Cash,HDFC,,Kirti,"Sakshi, Akanksha, Kirti",1553.69,No,Yes,None,Yes,Hyderabad,college,Paid during college,Daily,user,pass
+04-11-2024,2873.03,INR,Health,Medicines,Medicines expense,UPI,PhonePe,TXN341650,Sakshi,"Kirti, Akanksha",1436.52,No,No,,Yes,Pune,"college, urgent",Paid during college,Monthly,user,pass
+17-12-2024,1419.98,INR,Bills,Electricity,Electricity expense,UPI,SBI,TXN688802,Sakshi,"Amit, Kirti",709.99,Yes,No,,No,Hyderabad,"college, hostel",Paid during college,Luxury,user,pass
+18-01-2025,211.5,INR,Bills,Electricity,Electricity expense,Cash,PhonePe,,Kirti,"Akanksha, Sakshi",105.75,No,No,,Yes,Mumbai,"festival, urgent",Paid during festival,Essentials,user,pass
+23-10-2024,4809.55,INR,Transport,Train,Train expense,Credit Card,SBI,TXN732029,Amit,"Akanksha, Kirti",2404.78,Yes,Yes,Monthly,Yes,Hyderabad,college,Paid during college,Monthly,user,pass
+23-02-2025,2993.64,INR,Shopping,Clothes,Clothes expense,Debit Card,PhonePe,TXN562753,Amit,"Akanksha, Sakshi, Amit",997.88,Yes,Yes,None,Yes,Hyderabad,"birthday, urgent",Paid during birthday,Daily,user,pass
+12-10-2024,4463.74,INR,Shopping,Clothes,Clothes expense,Debit Card,PhonePe,TXN832238,Amit,Sakshi,4463.74,Yes,No,,No,Pune,birthday,Paid during birthday,Monthly,user,pass
+01-02-2025,3379.21,INR,Shopping,Clothes,Clothes expense,Credit Card,PhonePe,TXN709246,Kirti,"Akanksha, Kirti, Sakshi",1126.4,Yes,Yes,Monthly,No,Pune,hostel,Paid during hostel,Monthly,user,pass
+28-12-2024,2195.77,INR,Food,Groceries,Groceries expense,Cash,PhonePe,,Sakshi,"Akanksha, Amit, Kirti",731.92,No,Yes,Weekly,Yes,Hyderabad,festival,Paid during festival,Daily,user,pass
+28-01-2025,4489.47,INR,Education,Books,Books expense,Credit Card,Paytm,TXN878277,Amit,"Kirti, Amit",2244.74,Yes,Yes,Weekly,No,Hyderabad,birthday,Paid during birthday,Essentials,user,pass
+08-03-2025,118.39,INR,Education,Books,Books expense,Debit Card,SBI,TXN714432,Kirti,"Amit, Sakshi, Akanksha",39.46,No,No,,No,Mumbai,"urgent, birthday",Paid during urgent,Luxury,user,pass
+09-12-2024,3682.76,INR,Health,Medicines,Medicines expense,Wallet,HDFC,TXN494321,Akanksha,"Sakshi, Kirti",1841.38,No,Yes,None,Yes,Hyderabad,hostel,Paid during hostel,Essentials,user,pass
+16-10-2024,1066.68,INR,Food,Groceries,Groceries expense,Wallet,HDFC,TXN391354,Amit,"Akanksha, Kirti, Sakshi",355.56,Yes,Yes,Monthly,No,Hyderabad,college,Paid during college,Daily,user,pass
+21-12-2024,3582.89,INR,Health,Medicines,Medicines expense,Wallet,Google Pay,TXN442539,Amit,"Sakshi, Kirti, Amit",1194.3,Yes,No,,Yes,Mumbai,urgent,Paid during urgent,Monthly,user,pass
+16-03-2025,1895.78,INR,Education,Books,Books expense,Credit Card,Google Pay,TXN863784,Akanksha,"Amit, Kirti",947.89,Yes,No,,No,Hyderabad,"birthday, urgent",Paid during birthday,Daily,user,pass
+14-12-2024,1026.16,INR,Entertainment,Movie,Movie expense,Cash,Google Pay,,Akanksha,"Kirti, Amit, Sakshi",342.05,No,Yes,None,No,Hyderabad,"festival, urgent",Paid during festival,Daily,user,pass
+20-01-2025,862.33,INR,Entertainment,Movie,Movie expense,Cash,HDFC,,Kirti,"Amit, Sakshi, Akanksha",287.44,No,Yes,Monthly,Yes,Hyderabad,hostel,Paid during hostel,Essentials,user,pass
+10-02-2025,4416.91,INR,Transport,Auto,Auto expense,Debit Card,Paytm,TXN219316,Amit,"Amit, Kirti, Akanksha",1472.3,Yes,No,,Yes,Hyderabad,hostel,Paid during hostel,Essentials,user,pass
+30-01-2025,4257.83,INR,Health,Medicines,Medicines expense,Cash,Paytm,,Akanksha,Amit,4257.83,Yes,Yes,Weekly,Yes,Pune,"college, hostel",Paid during college,Daily,user,pass
+07-01-2025,4756.56,INR,Food,Restaurant,Restaurant expense,Cash,PhonePe,,Sakshi,"Akanksha, Sakshi, Amit",1585.52,No,No,,No,Pune,"college, festival",Paid during college,Monthly,user,pass
+17-11-2024,201.26,INR,Health,Medicines,Medicines expense,UPI,HDFC,TXN253773,Akanksha,"Akanksha, Sakshi, Kirti",67.09,Yes,Yes,Weekly,No,Mumbai,"birthday, college",Paid during birthday,Essentials,user,pass
+08-11-2024,3589.77,INR,Shopping,Clothes,Clothes expense,Cash,Paytm,,Kirti,"Amit, Sakshi, Kirti",1196.59,No,Yes,Monthly,Yes,Navi Mumbai,college,Paid during college,Daily,user,pass
+22-03-2025,1078,INR,Food,Restaurant,Restaurant expense,Debit Card,Paytm,TXN534384,Amit,Akanksha,1078,Yes,Yes,None,Yes,Mumbai,birthday,Paid during birthday,Daily,user,pass
+24-10-2024,2116.46,INR,Education,Books,Books expense,Debit Card,SBI,TXN238086,Kirti,"Amit, Akanksha",1058.23,Yes,Yes,Weekly,No,Pune,"birthday, college",Paid during birthday,Monthly,user,pass
+20-03-2025,4329.38,INR,Health,Medicines,Medicines expense,Debit Card,Paytm,TXN737495,Akanksha,"Amit, Akanksha, Sakshi",1443.13,No,Yes,None,Yes,Pune,college,Paid during college,Monthly,user,pass
+18-12-2024,2997.6,INR,Food,Restaurant,Restaurant expense,UPI,Paytm,TXN290939,Amit,Akanksha,2997.6,Yes,Yes,None,Yes,Mumbai,"urgent, birthday",Paid during urgent,Essentials,user,pass
+08-12-2024,4575.57,INR,Food,Restaurant,Restaurant expense,Cash,Google Pay,,Sakshi,"Amit, Kirti",2287.78,Yes,No,,No,Mumbai,"birthday, festival",Paid during birthday,Luxury,user,pass
+28-12-2024,2874.21,INR,Food,Restaurant,Restaurant expense,Cash,HDFC,,Kirti,Sakshi,2874.21,No,Yes,Weekly,No,Pune,birthday,Paid during birthday,Monthly,user,pass
+23-10-2024,2873.61,INR,Transport,Auto,Auto expense,Debit Card,Google Pay,TXN415599,Sakshi,Kirti,2873.61,No,No,,Yes,Mumbai,college,Paid during college,Monthly,user,pass
+15-02-2025,2651.52,INR,Food,Groceries,Groceries expense,Wallet,SBI,TXN136051,Akanksha,"Akanksha, Kirti, Amit",883.84,Yes,Yes,None,Yes,Pune,"urgent, college",Paid during urgent,Luxury,user,pass
+21-02-2025,4796.07,INR,Entertainment,Movie,Movie expense,Wallet,Google Pay,TXN109513,Kirti,"Kirti, Sakshi",2398.03,No,Yes,Weekly,No,Hyderabad,college,Paid during college,Daily,user,pass
+15-03-2025,4231.85,INR,Shopping,Clothes,Clothes expense,Cash,HDFC,,Amit,"Sakshi, Amit",2115.93,No,Yes,None,Yes,Mumbai,college,Paid during college,Luxury,user,pass
+14-11-2024,3488.88,INR,Entertainment,Movie,Movie expense,Debit Card,HDFC,TXN329825,Kirti,Akanksha,3488.88,No,No,,Yes,Pune,"birthday, urgent",Paid during birthday,Daily,user,pass
+26-01-2025,2617.22,INR,Bills,Electricity,Electricity expense,Wallet,SBI,TXN482747,Amit,Sakshi,2617.22,No,Yes,Monthly,No,Mumbai,"hostel, urgent",Paid during hostel,Luxury,user,pass
+02-11-2024,889.22,INR,Transport,Auto,Auto expense,Cash,SBI,,Kirti,"Sakshi, Amit, Kirti",296.41,No,No,,No,Hyderabad,"hostel, college",Paid during hostel,Luxury,user,pass
+11-10-2024,1779.54,INR,Bills,Electricity,Electricity expense,Wallet,SBI,TXN233929,Sakshi,Sakshi,1779.54,No,Yes,Weekly,No,Mumbai,hostel,Paid during hostel,Essentials,user,pass
+29-03-2025,2353.74,INR,Transport,Auto,Auto expense,Credit Card,HDFC,TXN198249,Sakshi,Sakshi,2353.74,Yes,Yes,Monthly,Yes,Mumbai,"birthday, urgent",Paid during birthday,Daily,user,pass
+22-12-2024,347.66,INR,Food,Restaurant,Restaurant expense,UPI,PhonePe,TXN843413,Amit,"Kirti, Sakshi",173.83,No,Yes,Weekly,No,Navi Mumbai,"festival, college",Paid during festival,Luxury,user,pass
+08-04-2025,4622.62,INR,Transport,Train,Train expense,UPI,HDFC,TXN729195,Kirti,Kirti,4622.62,Yes,No,,No,Hyderabad,"urgent, festival",Paid during urgent,Monthly,user,pass
+23-10-2024,3596.43,INR,Transport,Train,Train expense,Cash,SBI,,Kirti,"Kirti, Amit",1798.21,No,No,,No,Navi Mumbai,"festival, birthday",Paid during festival,Luxury,user,pass
+21-10-2024,2734.94,INR,Shopping,Clothes,Clothes expense,Credit Card,HDFC,TXN313169,Akanksha,"Akanksha, Kirti, Sakshi",911.65,No,No,,No,Mumbai,hostel,Paid during hostel,Daily,user,pass
+03-11-2024,640.47,INR,Food,Groceries,Groceries expense,UPI,PhonePe,TXN927457,Sakshi,Amit,640.47,No,Yes,Weekly,No,Mumbai,hostel,Paid during hostel,Monthly,user,pass
+28-11-2024,2029.86,INR,Food,Restaurant,Restaurant expense,UPI,PhonePe,TXN609501,Amit,Sakshi,2029.86,Yes,No,,Yes,Navi Mumbai,"college, festival",Paid during college,Essentials,user,pass
+16-12-2024,2424.81,INR,Bills,Electricity,Electricity expense,Credit Card,Paytm,TXN793360,Kirti,"Akanksha, Sakshi",1212.4,Yes,No,,Yes,Navi Mumbai,festival,Paid during festival,Monthly,user,pass
+15-11-2024,4012.79,INR,Education,Books,Books expense,UPI,Google Pay,TXN299682,Amit,"Kirti, Sakshi, Akanksha",1337.6,No,Yes,None,Yes,Pune,"festival, birthday",Paid during festival,Monthly,user,pass
+12-12-2024,1479.26,INR,Entertainment,Movie,Movie expense,Wallet,Paytm,TXN841563,Amit,"Sakshi, Amit",739.63,No,Yes,Monthly,No,Navi Mumbai,"urgent, festival",Paid during urgent,Luxury,user,pass
+19-02-2025,271.58,INR,Health,Medicines,Medicines expense,Cash,SBI,,Kirti,"Kirti, Akanksha, Sakshi",90.53,Yes,No,,Yes,Mumbai,festival,Paid during festival,Essentials,user,pass
+11-12-2024,376.02,INR,Transport,Train,Train expense,Credit Card,Paytm,TXN740567,Sakshi,"Amit, Sakshi, Kirti",125.34,No,Yes,Weekly,Yes,Mumbai,"festival, birthday",Paid during festival,Monthly,user,pass
+01-11-2024,4168.3,INR,Transport,Auto,Auto expense,Cash,PhonePe,,Akanksha,"Akanksha, Amit, Kirti",1389.43,Yes,Yes,Weekly,No,Pune,college,Paid during college,Daily,user,pass
+07-11-2024,1135.66,INR,Transport,Auto,Auto expense,UPI,HDFC,TXN654131,Kirti,"Amit, Kirti, Sakshi",378.55,Yes,Yes,Monthly,Yes,Navi Mumbai,festival,Paid during festival,Essentials,user,pass
+06-12-2024,4707.44,INR,Health,Medicines,Medicines expense,Credit Card,HDFC,TXN880328,Amit,Kirti,4707.44,No,No,,No,Hyderabad,urgent,Paid during urgent,Monthly,user,pass
+22-11-2024,592.56,INR,Transport,Auto,Auto expense,Wallet,PhonePe,TXN508221,Sakshi,Akanksha,592.56,No,Yes,Weekly,Yes,Pune,birthday,Paid during birthday,Essentials,user,pass
+30-10-2024,2097.12,INR,Education,Books,Books expense,Credit Card,HDFC,TXN776636,Kirti,"Amit, Akanksha, Kirti",699.04,Yes,Yes,Monthly,Yes,Hyderabad,"birthday, festival",Paid during birthday,Luxury,user,pass
+08-04-2025,1477.25,INR,Food,Groceries,Groceries expense,Cash,Paytm,,Amit,"Sakshi, Amit",738.62,Yes,Yes,None,No,Pune,"college, urgent",Paid during college,Essentials,user,pass
+31-01-2025,2441.71,INR,Shopping,Clothes,Clothes expense,Cash,HDFC,,Kirti,Kirti,2441.71,Yes,Yes,Weekly,No,Pune,"college, hostel",Paid during college,Luxury,user,pass
+15-03-2025,1470.28,INR,Food,Restaurant,Restaurant expense,Wallet,HDFC,TXN950010,Amit,"Amit, Akanksha, Kirti",490.09,No,Yes,None,Yes,Mumbai,"festival, hostel",Paid during festival,Essentials,user,pass
+02-11-2024,293.89,INR,Transport,Train,Train expense,Debit Card,Paytm,TXN907480,Kirti,"Kirti, Akanksha",146.94,Yes,Yes,Monthly,Yes,Navi Mumbai,hostel,Paid during hostel,Luxury,user,pass
+06-02-2025,3871.96,INR,Food,Restaurant,Restaurant expense,Cash,HDFC,,Sakshi,"Akanksha, Kirti",1935.98,Yes,Yes,Weekly,Yes,Mumbai,"urgent, hostel",Paid during urgent,Essentials,user,pass
+01-01-2025,4229.53,INR,Education,Books,Books expense,UPI,HDFC,TXN767802,Akanksha,"Kirti, Akanksha, Sakshi",1409.84,No,Yes,Weekly,No,Navi Mumbai,festival,Paid during festival,Luxury,user,pass
+03-12-2024,4774.5,INR,Food,Restaurant,Restaurant expense,Cash,HDFC,,Sakshi,Sakshi,4774.5,No,No,,Yes,Hyderabad,"college, festival",Paid during college,Daily,user,pass
+30-01-2025,4064.76,INR,Health,Medicines,Medicines expense,Wallet,HDFC,TXN299150,Sakshi,"Kirti, Amit, Akanksha",1354.92,No,Yes,Monthly,Yes,Pune,birthday,Paid during birthday,Luxury,user,pass
+06-04-2025,4472.21,INR,Food,Restaurant,Restaurant expense,Cash,PhonePe,,Sakshi,"Sakshi, Kirti",2236.11,No,No,,Yes,Mumbai,hostel,Paid during hostel,Luxury,user,pass
+15-10-2024,4161.1,INR,Food,Groceries,Groceries expense,Debit Card,PhonePe,TXN231482,Akanksha,Kirti,4161.1,No,Yes,Monthly,No,Hyderabad,"college, urgent",Paid during college,Luxury,user,pass
+11-01-2025,4401.64,INR,Transport,Auto,Auto expense,Cash,PhonePe,,Kirti,"Sakshi, Akanksha",2200.82,No,No,,No,Mumbai,"urgent, festival",Paid during urgent,Luxury,user,pass
+13-01-2025,2412.38,INR,Bills,Electricity,Electricity expense,UPI,PhonePe,TXN436666,Amit,"Amit, Sakshi",1206.19,Yes,No,,Yes,Hyderabad,"college, hostel",Paid during college,Daily,user,pass
+15-11-2024,1418.7,INR,Transport,Auto,Auto expense,Credit Card,Google Pay,TXN262579,Akanksha,"Sakshi, Amit, Kirti",472.9,Yes,Yes,Monthly,No,Mumbai,hostel,Paid during hostel,Monthly,user,pass
+15-10-2024,3223.51,INR,Transport,Auto,Auto expense,UPI,HDFC,TXN213964,Amit,"Akanksha, Amit, Sakshi",1074.5,No,No,,Yes,Mumbai,college,Paid during college,Daily,user,pass
+10-11-2024,2135.43,INR,Shopping,Clothes,Clothes expense,UPI,SBI,TXN928066,Akanksha,"Kirti, Sakshi",1067.71,No,No,,Yes,Pune,"hostel, urgent",Paid during hostel,Daily,user,pass
+25-10-2024,1705.42,INR,Food,Groceries,Groceries expense,Debit Card,PhonePe,TXN347948,Sakshi,"Sakshi, Amit",852.71,Yes,Yes,Weekly,Yes,Pune,"urgent, hostel",Paid during urgent,Luxury,user,pass
+30-10-2024,130.52,INR,Food,Restaurant,Restaurant expense,Credit Card,Paytm,TXN948857,Akanksha,Sakshi,130.52,Yes,Yes,None,Yes,Pune,"college, birthday",Paid during college,Essentials,user,pass
+26-10-2024,500.92,INR,Transport,Train,Train expense,Credit Card,SBI,TXN762752,Amit,"Sakshi, Amit",250.46,Yes,No,,Yes,Hyderabad,birthday,Paid during birthday,Daily,user,pass
+11-12-2024,867.77,INR,Bills,Electricity,Electricity expense,Debit Card,SBI,TXN668243,Amit,"Amit, Sakshi",433.88,No,Yes,Monthly,Yes,Hyderabad,"birthday, college",Paid during birthday,Essentials,user,pass
+21-03-2025,2112.59,INR,Entertainment,Movie,Movie expense,Credit Card,PhonePe,TXN803026,Kirti,"Amit, Kirti, Sakshi",704.2,Yes,No,,No,Pune,hostel,Paid during hostel,Luxury,user,pass
+15-11-2024,3003,INR,Health,Medicines,Medicines expense,Wallet,Google Pay,TXN596658,Kirti,Kirti,3003,No,No,,Yes,Mumbai,"hostel, festival",Paid during hostel,Essentials,user,pass
+23-01-2025,2885.18,INR,Transport,Auto,Auto expense,Debit Card,PhonePe,TXN438858,Akanksha,Amit,2885.18,Yes,Yes,Monthly,Yes,Mumbai,urgent,Paid during urgent,Luxury,user,pass
+21-03-2025,4768.97,INR,Entertainment,Movie,Movie expense,Credit Card,Paytm,TXN608482,Amit,Sakshi,4768.97,No,Yes,Weekly,No,Navi Mumbai,"hostel, urgent",Paid during hostel,Luxury,user,pass
+28-12-2024,4868.13,INR,Education,Books,Books expense,Credit Card,SBI,TXN685173,Akanksha,Kirti,4868.13,No,No,,No,Navi Mumbai,"college, birthday",Paid during college,Daily,user,pass
+05-02-2025,4874.41,INR,Transport,Train,Train expense,UPI,HDFC,TXN200070,Amit,Amit,4874.41,Yes,No,,No,Hyderabad,"birthday, college",Paid during birthday,Luxury,user,pass
+24-03-2025,1720.5,INR,Transport,Auto,Auto expense,UPI,SBI,TXN167602,Akanksha,Sakshi,1720.5,No,No,,No,Pune,"hostel, urgent",Paid during hostel,Daily,user,pass
+19-12-2024,3365.87,INR,Education,Books,Books expense,Credit Card,Paytm,TXN964886,Kirti,Kirti,3365.87,No,No,,Yes,Pune,college,Paid during college,Daily,user,pass
+15-11-2024,1953.13,INR,Education,Books,Books expense,Cash,PhonePe,,Kirti,"Amit, Kirti, Akanksha",651.04,No,Yes,Monthly,Yes,Mumbai,"hostel, urgent",Paid during hostel,Monthly,user,pass
+04-03-2025,715.94,INR,Health,Medicines,Medicines expense,Debit Card,HDFC,TXN151626,Sakshi,"Amit, Sakshi, Akanksha",238.65,Yes,Yes,Weekly,Yes,Navi Mumbai,birthday,Paid during birthday,Monthly,user,pass
+31-10-2024,4167.33,INR,Food,Restaurant,Restaurant expense,Debit Card,Google Pay,TXN661743,Amit,"Sakshi, Kirti",2083.66,Yes,Yes,Monthly,No,Navi Mumbai,festival,Paid during festival,Essentials,user,pass
+14-10-2024,2239.41,INR,Transport,Auto,Auto expense,Cash,SBI,,Kirti,"Kirti, Amit",1119.7,No,No,,Yes,Navi Mumbai,festival,Paid during festival,Daily,user,pass
+21-12-2024,642.11,INR,Bills,Electricity,Electricity expense,Wallet,SBI,TXN582178,Kirti,Kirti,642.11,Yes,No,,No,Navi Mumbai,birthday,Paid during birthday,Essentials,user,pass
+22-11-2024,3179.22,INR,Entertainment,Movie,Movie expense,UPI,Google Pay,TXN913784,Kirti,"Sakshi, Amit, Akanksha",1059.74,No,No,,Yes,Mumbai,festival,Paid during festival,Monthly,user,pass
+06-12-2024,2499.13,INR,Food,Restaurant,Restaurant expense,Debit Card,HDFC,TXN207399,Sakshi,"Sakshi, Akanksha",1249.57,No,No,,Yes,Hyderabad,"birthday, festival",Paid during birthday,Monthly,user,pass
+19-11-2024,3151.02,INR,Education,Books,Books expense,Debit Card,Google Pay,TXN872764,Kirti,"Amit, Kirti, Sakshi",1050.34,Yes,Yes,None,No,Navi Mumbai,urgent,Paid during urgent,Monthly,user,pass
+28-03-2025,4236.64,INR,Transport,Train,Train expense,Debit Card,SBI,TXN114403,Akanksha,"Akanksha, Kirti",2118.32,No,Yes,Monthly,Yes,Navi Mumbai,festival,Paid during festival,Daily,user,pass
+04-11-2024,2936.66,INR,Transport,Auto,Auto expense,Debit Card,HDFC,TXN150394,Sakshi,"Amit, Akanksha, Kirti",978.89,Yes,Yes,None,No,Pune,festival,Paid during festival,Luxury,user,pass
+14-01-2025,2989.26,INR,Education,Books,Books expense,Debit Card,PhonePe,TXN373616,Akanksha,"Amit, Kirti, Akanksha",996.42,No,Yes,Monthly,No,Pune,birthday,Paid during birthday,Essentials,user,pass
+19-12-2024,3152.19,INR,Bills,Electricity,Electricity expense,Credit Card,HDFC,TXN835737,Sakshi,"Sakshi, Kirti, Akanksha",1050.73,Yes,No,,Yes,Mumbai,college,Paid during college,Daily,user,pass
+08-12-2024,2683.4,INR,Entertainment,Movie,Movie expense,UPI,PhonePe,TXN290069,Akanksha,Akanksha,2683.4,No,Yes,Weekly,No,Mumbai,college,Paid during college,Essentials,user,pass
+08-11-2024,3381.87,INR,Shopping,Clothes,Clothes expense,UPI,Google Pay,TXN735226,Akanksha,"Sakshi, Amit",1690.93,Yes,Yes,None,Yes,Hyderabad,"festival, college",Paid during festival,Luxury,user,pass
+13-12-2024,3734.18,INR,Entertainment,Movie,Movie expense,Debit Card,SBI,TXN952890,Sakshi,"Amit, Akanksha, Sakshi",1244.73,Yes,No,,Yes,Hyderabad,"hostel, urgent",Paid during hostel,Daily,user,pass
+23-10-2024,2105.62,INR,Food,Groceries,Groceries expense,Wallet,HDFC,TXN467917,Sakshi,"Amit, Sakshi",1052.81,No,Yes,Monthly,No,Navi Mumbai,urgent,Paid during urgent,Luxury,user,pass
+03-02-2025,3483.96,INR,Food,Restaurant,Restaurant expense,Wallet,Google Pay,TXN974692,Amit,Kirti,3483.96,No,No,,No,Navi Mumbai,hostel,Paid during hostel,Essentials,user,pass
+01-03-2025,982.27,INR,Transport,Auto,Auto expense,UPI,Google Pay,TXN620744,Akanksha,Kirti,982.27,No,Yes,Weekly,Yes,Hyderabad,"festival, birthday",Paid during festival,Monthly,user,pass
+31-12-2024,1590.29,INR,Education,Books,Books expense,Credit Card,HDFC,TXN120490,Sakshi,Kirti,1590.29,Yes,No,,No,Mumbai,"festival, urgent",Paid during festival,Luxury,user,pass
+05-04-2025,2467.36,INR,Shopping,Clothes,Clothes expense,Debit Card,SBI,TXN131774,Amit,"Akanksha, Sakshi",1233.68,Yes,No,,No,Navi Mumbai,urgent,Paid during urgent,Monthly,user,pass
+13-10-2024,3421.68,INR,Education,Books,Books expense,Wallet,HDFC,TXN747718,Akanksha,"Amit, Akanksha",1710.84,Yes,Yes,None,No,Pune,"hostel, urgent",Paid during hostel,Luxury,user,pass
+01-04-2025,4914.99,INR,Food,Groceries,Groceries expense,Debit Card,HDFC,TXN954619,Amit,"Sakshi, Amit, Akanksha",1638.33,Yes,Yes,Weekly,No,Navi Mumbai,festival,Paid during festival,Daily,user,pass
+06-04-2025,3505.82,INR,Bills,Electricity,Electricity expense,Wallet,HDFC,TXN279823,Amit,"Sakshi, Amit",1752.91,Yes,Yes,None,No,Mumbai,"college, hostel",Paid during college,Luxury,user,pass
+06-12-2024,690.07,INR,Food,Restaurant,Restaurant expense,Credit Card,Paytm,TXN957780,Amit,"Amit, Kirti",345.04,No,Yes,None,No,Hyderabad,college,Paid during college,Luxury,user,pass
+04-01-2025,485.34,INR,Education,Books,Books expense,Credit Card,HDFC,TXN858293,Sakshi,Amit,485.34,Yes,No,,Yes,Mumbai,hostel,Paid during hostel,Daily,user,pass
+02-03-2025,2049.18,INR,Entertainment,Movie,Movie expense,Debit Card,PhonePe,TXN270697,Kirti,Sakshi,2049.18,Yes,Yes,None,No,Hyderabad,hostel,Paid during hostel,Luxury,user,pass
+25-02-2025,3618.49,INR,Food,Groceries,Groceries expense,Wallet,Paytm,TXN879229,Amit,"Kirti, Sakshi",1809.24,Yes,Yes,None,Yes,Mumbai,"birthday, hostel",Paid during birthday,Monthly,user,pass
+07-12-2024,863.97,INR,Health,Medicines,Medicines expense,Cash,HDFC,,Akanksha,"Kirti, Akanksha, Amit",287.99,No,Yes,None,Yes,Pune,hostel,Paid during hostel,Daily,user,pass
+16-03-2025,2466.69,INR,Transport,Train,Train expense,UPI,Paytm,TXN964076,Akanksha,"Kirti, Amit, Sakshi",822.23,Yes,Yes,Monthly,No,Navi Mumbai,college,Paid during college,Luxury,user,pass
+19-01-2025,1450.32,INR,Shopping,Clothes,Clothes expense,Cash,Google Pay,,Sakshi,"Kirti, Akanksha",725.16,Yes,No,,No,Mumbai,"urgent, festival",Paid during urgent,Essentials,user,pass
+26-03-2025,4364.95,INR,Food,Restaurant,Restaurant expense,Cash,Google Pay,,Amit,"Amit, Akanksha, Sakshi",1454.98,Yes,No,,No,Mumbai,"birthday, urgent",Paid during birthday,Luxury,user,pass
+10-11-2024,1253.87,INR,Food,Groceries,Groceries expense,Debit Card,HDFC,TXN355497,Sakshi,"Akanksha, Amit",626.93,Yes,No,,Yes,Hyderabad,"birthday, college",Paid during birthday,Daily,user,pass
+16-03-2025,248.69,INR,Health,Medicines,Medicines expense,Cash,HDFC,,Kirti,"Amit, Kirti",124.34,Yes,No,,No,Pune,college,Paid during college,Luxury,user,pass
+14-11-2024,4829.23,INR,Food,Restaurant,Restaurant expense,Debit Card,Paytm,TXN916950,Akanksha,"Sakshi, Kirti",2414.61,No,No,,Yes,Pune,birthday,Paid during birthday,Daily,user,pass
+11-03-2025,3260.75,INR,Shopping,Clothes,Clothes expense,UPI,Google Pay,TXN924034,Kirti,Akanksha,3260.75,No,No,,No,Mumbai,"urgent, hostel",Paid during urgent,Daily,user,pass
+13-12-2024,1194.53,INR,Health,Medicines,Medicines expense,Wallet,PhonePe,TXN327638,Kirti,Amit,1194.53,Yes,No,,No,Mumbai,"festival, birthday",Paid during festival,Luxury,user,pass
+07-11-2024,923.33,INR,Shopping,Clothes,Clothes expense,Wallet,Google Pay,TXN985457,Sakshi,"Amit, Akanksha, Kirti",307.78,Yes,Yes,None,Yes,Pune,festival,Paid during festival,Monthly,user,pass
+26-02-2025,584.43,INR,Education,Books,Books expense,UPI,SBI,TXN978762,Akanksha,"Kirti, Akanksha",292.21,No,Yes,None,No,Navi Mumbai,"urgent, hostel",Paid during urgent,Daily,user,pass
+13-12-2024,456.29,INR,Bills,Electricity,Electricity expense,Cash,HDFC,,Sakshi,"Kirti, Sakshi, Amit",152.1,No,No,,No,Mumbai,college,Paid during college,Daily,user,pass
+22-10-2024,3632.58,INR,Education,Books,Books expense,Wallet,SBI,TXN293753,Amit,Kirti,3632.58,Yes,Yes,Monthly,No,Pune,college,Paid during college,Monthly,user,pass
+21-10-2024,2291.49,INR,Bills,Electricity,Electricity expense,Debit Card,Google Pay,TXN628456,Akanksha,"Sakshi, Amit, Kirti",763.83,Yes,Yes,Weekly,Yes,Navi Mumbai,urgent,Paid during urgent,Daily,user,pass
+16-03-2025,983.84,INR,Transport,Auto,Auto expense,Debit Card,HDFC,TXN565616,Kirti,Sakshi,983.84,No,No,,Yes,Navi Mumbai,"birthday, college",Paid during birthday,Daily,user,pass
+05-12-2024,3134.8,INR,Transport,Train,Train expense,Credit Card,PhonePe,TXN272511,Kirti,"Kirti, Amit",1567.4,No,No,,No,Pune,"birthday, festival",Paid during birthday,Monthly,user,pass
+31-12-2024,2788.46,INR,Food,Restaurant,Restaurant expense,Debit Card,HDFC,TXN794337,Sakshi,"Sakshi, Amit, Kirti",929.49,No,Yes,Weekly,Yes,Mumbai,urgent,Paid during urgent,Essentials,user,pass
+17-01-2025,4351.7,INR,Transport,Train,Train expense,Cash,PhonePe,,Amit,Amit,4351.7,No,No,,No,Navi Mumbai,"birthday, festival",Paid during birthday,Essentials,user,pass
+11-03-2025,1537.37,INR,Food,Groceries,Groceries expense,UPI,Google Pay,TXN123749,Kirti,"Kirti, Amit",768.68,Yes,Yes,Monthly,No,Hyderabad,"birthday, urgent",Paid during birthday,Daily,user,pass
+08-02-2025,4006.85,INR,Entertainment,Movie,Movie expense,Credit Card,HDFC,TXN671400,Amit,Amit,4006.85,No,Yes,Monthly,No,Pune,festival,Paid during festival,Daily,user,pass
+14-03-2025,2231.62,INR,Food,Groceries,Groceries expense,Debit Card,PhonePe,TXN330876,Sakshi,"Akanksha, Sakshi",1115.81,Yes,Yes,None,Yes,Pune,birthday,Paid during birthday,Daily,user,pass
+06-04-2025,1526.18,INR,Health,Medicines,Medicines expense,Wallet,PhonePe,TXN975228,Kirti,Sakshi,1526.18,Yes,Yes,Weekly,Yes,Pune,"festival, college",Paid during festival,Daily,user,pass
+18-02-2025,1100.06,INR,Shopping,Clothes,Clothes expense,Wallet,PhonePe,TXN992239,Akanksha,"Kirti, Sakshi, Amit",366.69,No,Yes,Weekly,Yes,Navi Mumbai,festival,Paid during festival,Essentials,user,pass
+18-12-2024,4802.74,INR,Transport,Train,Train expense,Credit Card,PhonePe,TXN403656,Akanksha,"Akanksha, Amit, Sakshi",1600.91,No,Yes,None,Yes,Mumbai,festival,Paid during festival,Daily,user,pass
+13-11-2024,1091.99,INR,Shopping,Clothes,Clothes expense,Wallet,Paytm,TXN897779,Amit,"Sakshi, Akanksha, Kirti",364,Yes,Yes,Monthly,No,Pune,hostel,Paid during hostel,Monthly,user,pass
+19-02-2025,1885.45,INR,Food,Groceries,Groceries expense,UPI,HDFC,TXN547929,Sakshi,"Kirti, Amit",942.73,No,No,,Yes,Hyderabad,hostel,Paid during hostel,Essentials,user,pass
+11-01-2025,1976.1,INR,Transport,Train,Train expense,Debit Card,HDFC,TXN467359,Kirti,Kirti,1976.1,No,Yes,None,No,Hyderabad,"urgent, hostel",Paid during urgent,Essentials,user,pass
+04-12-2024,473.18,INR,Transport,Auto,Auto expense,Cash,HDFC,,Sakshi,"Sakshi, Akanksha",236.59,No,Yes,None,Yes,Hyderabad,"hostel, college",Paid during hostel,Essentials,user,pass
+07-02-2025,2544.82,INR,Education,Books,Books expense,Cash,Paytm,,Akanksha,"Akanksha, Sakshi, Amit",848.27,No,Yes,Weekly,Yes,Navi Mumbai,birthday,Paid during birthday,Essentials,user,pass
+03-03-2025,235.79,INR,Food,Restaurant,Restaurant expense,UPI,SBI,TXN287198,Akanksha,Akanksha,235.79,Yes,Yes,None,No,Pune,urgent,Paid during urgent,Monthly,user,pass
+10-02-2025,3602.59,INR,Bills,Electricity,Electricity expense,UPI,Google Pay,TXN606659,Amit,Akanksha,3602.59,Yes,Yes,Weekly,No,Navi Mumbai,urgent,Paid during urgent,Monthly,user,pass
+09-12-2024,3638.63,INR,Transport,Auto,Auto expense,Credit Card,SBI,TXN888769,Sakshi,"Sakshi, Amit",1819.32,No,No,,Yes,Pune,"birthday, hostel",Paid during birthday,Luxury,user,pass
+17-12-2024,3940.25,INR,Food,Restaurant,Restaurant expense,Wallet,Google Pay,TXN647581,Sakshi,"Kirti, Akanksha, Sakshi",1313.42,No,No,,No,Mumbai,birthday,Paid during birthday,Monthly,user,pass
+07-12-2024,3454.21,INR,Education,Books,Books expense,Wallet,Google Pay,TXN536930,Sakshi,"Kirti, Akanksha",1727.11,No,Yes,None,Yes,Hyderabad,hostel,Paid during hostel,Essentials,user,pass
+16-12-2024,2670.12,INR,Food,Groceries,Groceries expense,Credit Card,PhonePe,TXN401833,Akanksha,"Kirti, Akanksha, Amit",890.04,Yes,No,,No,Mumbai,urgent,Paid during urgent,Daily,user,pass
+18-11-2024,2440.39,INR,Food,Groceries,Groceries expense,Cash,Paytm,,Sakshi,Kirti,2440.39,No,Yes,Weekly,Yes,Mumbai,hostel,Paid during hostel,Essentials,user,pass
+19-03-2025,1824.5,INR,Health,Medicines,Medicines expense,UPI,SBI,TXN681591,Sakshi,Kirti,1824.5,No,Yes,Monthly,Yes,Navi Mumbai,urgent,Paid during urgent,Monthly,user,pass
+25-03-2025,1407.25,INR,Food,Restaurant,Restaurant expense,Credit Card,SBI,TXN571305,Kirti,Akanksha,1407.25,Yes,Yes,Monthly,Yes,Hyderabad,"birthday, college",Paid during birthday,Luxury,user,pass
+25-11-2024,1561.03,INR,Food,Restaurant,Restaurant expense,Wallet,SBI,TXN318804,Sakshi,"Kirti, Sakshi",780.51,No,No,,Yes,Navi Mumbai,"festival, college",Paid during festival,Essentials,user,pass
+30-10-2024,4437.52,INR,Entertainment,Movie,Movie expense,Wallet,PhonePe,TXN917480,Akanksha,Sakshi,4437.52,No,No,,Yes,Mumbai,"festival, college",Paid during festival,Daily,user,pass
+18-11-2024,2887.09,INR,Bills,Electricity,Electricity expense,Cash,PhonePe,,Akanksha,Kirti,2887.09,Yes,Yes,Monthly,No,Hyderabad,"hostel, festival",Paid during hostel,Monthly,user,pass
+30-11-2024,1818.25,INR,Transport,Train,Train expense,Wallet,Google Pay,TXN503613,Kirti,"Sakshi, Akanksha, Kirti",606.08,Yes,No,,Yes,Mumbai,"hostel, festival",Paid during hostel,Daily,user,pass
+23-01-2025,3124.68,INR,Transport,Auto,Auto expense,Debit Card,HDFC,TXN765636,Sakshi,Akanksha,3124.68,Yes,Yes,Weekly,No,Hyderabad,"birthday, college",Paid during birthday,Essentials,user,pass
+25-10-2024,4368.68,INR,Transport,Train,Train expense,Cash,SBI,,Kirti,Akanksha,4368.68,No,Yes,Weekly,Yes,Pune,college,Paid during college,Monthly,user,pass
+20-10-2024,1362.26,INR,Health,Medicines,Medicines expense,Cash,Paytm,,Amit,"Kirti, Sakshi",681.13,Yes,Yes,Monthly,Yes,Navi Mumbai,"urgent, hostel",Paid during urgent,Daily,user,pass
+30-01-2025,1678.54,INR,Education,Books,Books expense,Debit Card,PhonePe,TXN381611,Amit,Amit,1678.54,Yes,Yes,Weekly,Yes,Pune,"college, festival",Paid during college,Monthly,user,pass
+04-04-2025,1879.65,INR,Health,Medicines,Medicines expense,Cash,Paytm,,Sakshi,"Amit, Akanksha, Sakshi",626.55,Yes,Yes,Monthly,Yes,Pune,birthday,Paid during birthday,Daily,user,pass
+12-10-2024,957.71,INR,Food,Restaurant,Restaurant expense,Cash,Google Pay,,Kirti,"Akanksha, Amit",478.86,Yes,No,,Yes,Mumbai,college,Paid during college,Essentials,user,pass
+31-03-2025,148.52,INR,Education,Books,Books expense,Wallet,SBI,TXN180906,Sakshi,"Akanksha, Amit, Kirti",49.51,Yes,Yes,None,No,Pune,"urgent, festival",Paid during urgent,Luxury,user,pass
+16-01-2025,120.92,INR,Transport,Auto,Auto expense,UPI,HDFC,TXN144527,Amit,"Amit, Kirti, Sakshi",40.31,No,Yes,Weekly,Yes,Mumbai,"college, birthday",Paid during college,Luxury,user,pass
+24-02-2025,3565.58,INR,Transport,Auto,Auto expense,Debit Card,Paytm,TXN696747,Akanksha,Kirti,3565.58,No,Yes,Monthly,No,Pune,birthday,Paid during birthday,Monthly,user,pass
+18-11-2024,4763.81,INR,Transport,Auto,Auto expense,Credit Card,HDFC,TXN543275,Amit,Akanksha,4763.81,Yes,Yes,None,Yes,Hyderabad,birthday,Paid during birthday,Essentials,user,pass
+25-03-2025,3782.62,INR,Shopping,Clothes,Clothes expense,Wallet,HDFC,TXN540878,Sakshi,Amit,3782.62,No,No,,No,Hyderabad,"birthday, hostel",Paid during birthday,Luxury,user,pass
+21-01-2025,210.11,INR,Food,Restaurant,Restaurant expense,Debit Card,SBI,TXN449484,Kirti,Amit,210.11,No,Yes,Weekly,No,Mumbai,"urgent, hostel",Paid during urgent,Monthly,user,pass
+15-03-2025,4768.89,INR,Transport,Auto,Auto expense,Wallet,Paytm,TXN122639,Kirti,"Kirti, Amit",2384.45,Yes,No,,No,Pune,festival,Paid during festival,Luxury,user,pass
+08-11-2024,1352.48,INR,Bills,Electricity,Electricity expense,Debit Card,PhonePe,TXN816156,Sakshi,"Kirti, Akanksha, Sakshi",450.83,Yes,No,,No,Navi Mumbai,"festival, hostel",Paid during festival,Monthly,user,pass
+21-03-2025,3514.37,INR,Bills,Electricity,Electricity expense,Wallet,HDFC,TXN138249,Sakshi,"Sakshi, Kirti, Akanksha",1171.46,No,Yes,Weekly,No,Hyderabad,festival,Paid during festival,Essentials,user,pass
+05-01-2025,4700.03,INR,Entertainment,Movie,Movie expense,UPI,SBI,TXN211648,Amit,Sakshi,4700.03,No,Yes,Monthly,No,Pune,"college, birthday",Paid during college,Essentials,user,pass
+10-02-2025,1205.94,INR,Health,Medicines,Medicines expense,Debit Card,Paytm,TXN379780,Kirti,"Sakshi, Kirti",602.97,Yes,Yes,None,Yes,Hyderabad,birthday,Paid during birthday,Monthly,user,pass
+22-11-2024,1621.4,INR,Education,Books,Books expense,UPI,HDFC,TXN981597,Amit,"Kirti, Amit",810.7,No,Yes,Monthly,Yes,Mumbai,"college, festival",Paid during college,Essentials,user,pass
+04-03-2025,1956.92,INR,Health,Medicines,Medicines expense,Debit Card,Paytm,TXN576403,Sakshi,"Amit, Kirti, Sakshi",652.31,Yes,Yes,Weekly,Yes,Navi Mumbai,urgent,Paid during urgent,Essentials,user,pass
+15-03-2025,2678.55,INR,Transport,Auto,Auto expense,Credit Card,Paytm,TXN362443,Akanksha,"Amit, Akanksha, Kirti",892.85,Yes,No,,No,Pune,urgent,Paid during urgent,Daily,user,pass
+14-12-2024,1962.15,INR,Education,Books,Books expense,UPI,SBI,TXN543392,Amit,"Sakshi, Kirti",981.08,No,No,,Yes,Mumbai,college,Paid during college,Essentials,user,pass
+26-11-2024,87.66,INR,Food,Restaurant,Restaurant expense,Credit Card,Paytm,TXN848802,Sakshi,"Akanksha, Kirti, Amit",29.22,No,No,,No,Navi Mumbai,college,Paid during college,Luxury,user,pass
+19-10-2024,4599.17,INR,Bills,Electricity,Electricity expense,Credit Card,HDFC,TXN486924,Kirti,"Amit, Akanksha, Kirti",1533.06,Yes,No,,No,Mumbai,"festival, college",Paid during festival,Daily,user,pass
+25-12-2024,3149.04,INR,Health,Medicines,Medicines expense,Credit Card,Google Pay,TXN373628,Kirti,"Kirti, Akanksha, Amit",1049.68,No,Yes,Weekly,Yes,Hyderabad,urgent,Paid during urgent,Daily,user,pass
+26-01-2025,1458.47,INR,Transport,Train,Train expense,Debit Card,HDFC,TXN395067,Akanksha,"Sakshi, Kirti",729.24,Yes,Yes,Monthly,Yes,Navi Mumbai,"college, hostel",Paid during college,Daily,user,pass
+03-11-2024,1337.36,INR,Entertainment,Movie,Movie expense,Debit Card,Paytm,TXN993604,Sakshi,Amit,1337.36,No,No,,Yes,Navi Mumbai,"festival, college",Paid during festival,Monthly,user,pass
+28-11-2024,3286.57,INR,Bills,Electricity,Electricity expense,UPI,PhonePe,TXN322924,Amit,Kirti,3286.57,No,No,,Yes,Mumbai,college,Paid during college,Daily,user,pass
+31-03-2025,4160.8,INR,Transport,Auto,Auto expense,Wallet,HDFC,TXN615177,Akanksha,"Amit, Sakshi, Kirti",1386.93,No,Yes,Weekly,Yes,Hyderabad,hostel,Paid during hostel,Luxury,user,pass
+13-10-2024,4518.19,INR,Food,Groceries,Groceries expense,Credit Card,HDFC,TXN774440,Akanksha,Amit,4518.19,Yes,Yes,None,No,Mumbai,"hostel, birthday",Paid during hostel,Daily,user,pass
+27-01-2025,1845.34,INR,Food,Groceries,Groceries expense,Wallet,PhonePe,TXN418637,Sakshi,"Akanksha, Amit",922.67,Yes,Yes,None,No,Navi Mumbai,hostel,Paid during hostel,Essentials,user,pass
+27-03-2025,2498.59,INR,Food,Restaurant,Restaurant expense,Wallet,Paytm,TXN225757,Akanksha,"Kirti, Sakshi",1249.3,No,No,,Yes,Pune,urgent,Paid during urgent,Essentials,user,pass
+06-04-2025,1762.59,INR,Entertainment,Movie,Movie expense,Cash,Google Pay,,Akanksha,"Kirti, Akanksha, Amit",587.53,No,No,,No,Navi Mumbai,college,Paid during college,Daily,user,pass
+14-03-2025,4410.87,INR,Food,Groceries,Groceries expense,Debit Card,HDFC,TXN323596,Amit,Amit,4410.87,No,No,,Yes,Hyderabad,"college, birthday",Paid during college,Luxury,user,pass
+29-11-2024,1802.06,INR,Bills,Electricity,Electricity expense,Cash,Google Pay,,Amit,"Akanksha, Amit",901.03,Yes,Yes,Weekly,Yes,Hyderabad,urgent,Paid during urgent,Daily,user,pass
+23-12-2024,1990.95,INR,Entertainment,Movie,Movie expense,UPI,SBI,TXN472056,Kirti,"Sakshi, Akanksha",995.48,Yes,Yes,None,Yes,Hyderabad,"birthday, festival",Paid during birthday,Essentials,user,pass
+04-03-2025,3823.77,INR,Bills,Electricity,Electricity expense,Cash,HDFC,,Kirti,"Akanksha, Sakshi",1911.88,No,Yes,None,Yes,Navi Mumbai,urgent,Paid during urgent,Essentials,user,pass
+25-01-2025,384.27,INR,Bills,Electricity,Electricity expense,UPI,HDFC,TXN238114,Amit,"Sakshi, Kirti",192.13,Yes,Yes,Monthly,No,Hyderabad,hostel,Paid during hostel,Essentials,user,pass
+22-03-2025,835.85,INR,Transport,Train,Train expense,Credit Card,HDFC,TXN305251,Amit,"Sakshi, Amit",417.93,No,No,,Yes,Hyderabad,"birthday, hostel",Paid during birthday,Daily,user,pass
+11-11-2024,4921.01,INR,Education,Books,Books expense,Cash,HDFC,,Amit,Sakshi,4921.01,Yes,No,,No,Pune,birthday,Paid during birthday,Daily,user,pass
+04-01-2025,3241.73,INR,Food,Restaurant,Restaurant expense,Debit Card,PhonePe,TXN415871,Kirti,"Amit, Kirti, Akanksha",1080.58,No,Yes,Weekly,No,Pune,hostel,Paid during hostel,Luxury,user,pass
+15-10-2024,3741.79,INR,Shopping,Clothes,Clothes expense,UPI,SBI,TXN770753,Kirti,Kirti,3741.79,Yes,No,,Yes,Pune,birthday,Paid during birthday,Essentials,user,pass
+10-12-2024,343.53,INR,Food,Restaurant,Restaurant expense,Wallet,Google Pay,TXN885904,Amit,"Akanksha, Amit",171.76,Yes,Yes,Monthly,No,Pune,festival,Paid during festival,Daily,user,pass
+27-01-2025,820.07,INR,Food,Restaurant,Restaurant expense,Cash,Paytm,,Sakshi,"Akanksha, Amit",410.04,No,Yes,Weekly,No,Pune,college,Paid during college,Luxury,user,pass
+05-03-2025,3331.6,INR,Entertainment,Movie,Movie expense,UPI,PhonePe,TXN782396,Sakshi,"Kirti, Amit, Sakshi",1110.53,No,Yes,Monthly,Yes,Navi Mumbai,birthday,Paid during birthday,Monthly,user,pass
+22-01-2025,2210.33,INR,Food,Restaurant,Restaurant expense,Debit Card,PhonePe,TXN621237,Akanksha,"Akanksha, Sakshi",1105.16,No,No,,Yes,Pune,"college, birthday",Paid during college,Daily,user,pass
+27-12-2024,4414.99,INR,Food,Restaurant,Restaurant expense,UPI,Paytm,TXN476530,Sakshi,"Akanksha, Amit, Sakshi",1471.66,Yes,No,,No,Pune,"festival, college",Paid during festival,Monthly,user,pass
+30-12-2024,3783.1,INR,Transport,Auto,Auto expense,Debit Card,HDFC,TXN675756,Sakshi,"Kirti, Amit",1891.55,No,Yes,Monthly,No,Navi Mumbai,"college, hostel",Paid during college,Essentials,user,pass
+26-10-2024,424.68,INR,Bills,Electricity,Electricity expense,Wallet,PhonePe,TXN130019,Kirti,"Amit, Kirti, Akanksha",141.56,No,No,,No,Mumbai,"urgent, hostel",Paid during urgent,Monthly,user,pass
+18-11-2024,3730.21,INR,Food,Groceries,Groceries expense,Cash,PhonePe,,Akanksha,Akanksha,3730.21,Yes,No,,Yes,Navi Mumbai,hostel,Paid during hostel,Monthly,user,pass
+08-11-2024,1790.6,INR,Bills,Electricity,Electricity expense,Cash,Google Pay,,Akanksha,"Sakshi, Amit",895.3,Yes,Yes,Monthly,No,Mumbai,college,Paid during college,Luxury,user,pass
+23-02-2025,2399.39,INR,Shopping,Clothes,Clothes expense,UPI,Google Pay,TXN724916,Akanksha,"Akanksha, Kirti, Amit",799.8,No,Yes,Weekly,No,Navi Mumbai,birthday,Paid during birthday,Monthly,user,pass
+04-01-2025,1345.19,INR,Education,Books,Books expense,Debit Card,Paytm,TXN557710,Amit,Sakshi,1345.19,Yes,Yes,Monthly,No,Pune,hostel,Paid during hostel,Daily,user,pass
+22-11-2024,4277.94,INR,Education,Books,Books expense,Debit Card,Google Pay,TXN869073,Akanksha,"Kirti, Amit",2138.97,Yes,Yes,Monthly,No,Hyderabad,urgent,Paid during urgent,Luxury,user,pass
+26-01-2025,849.04,INR,Shopping,Clothes,Clothes expense,UPI,PhonePe,TXN625803,Sakshi,"Amit, Kirti",424.52,Yes,No,,No,Hyderabad,"birthday, urgent",Paid during birthday,Luxury,user,pass
+11-03-2025,1171.75,INR,Transport,Auto,Auto expense,Wallet,Paytm,TXN245848,Kirti,"Kirti, Amit",585.88,No,No,,Yes,Hyderabad,"festival, birthday",Paid during festival,Daily,user,pass
+17-02-2025,3362.46,INR,Transport,Auto,Auto expense,UPI,Google Pay,TXN615891,Kirti,Kirti,3362.46,No,Yes,Weekly,No,Navi Mumbai,"festival, college",Paid during festival,Essentials,user,pass
+02-12-2024,2848.98,INR,Transport,Train,Train expense,UPI,PhonePe,TXN792594,Akanksha,Kirti,2848.98,No,Yes,Monthly,No,Navi Mumbai,"festival, college",Paid during festival,Essentials,user,pass
+14-11-2024,1306.29,INR,Education,Books,Books expense,Debit Card,Google Pay,TXN116249,Akanksha,"Amit, Sakshi, Akanksha",435.43,No,Yes,Monthly,No,Pune,birthday,Paid during birthday,Daily,user,pass
+23-03-2025,4794.4,INR,Transport,Auto,Auto expense,Wallet,SBI,TXN561873,Amit,Akanksha,4794.4,Yes,Yes,Weekly,No,Pune,urgent,Paid during urgent,Luxury,user,pass
+14-01-2025,273.3,INR,Entertainment,Movie,Movie expense,Wallet,Google Pay,TXN814005,Kirti,Akanksha,273.3,Yes,Yes,Weekly,No,Mumbai,college,Paid during college,Daily,user,pass
+11-03-2025,3214.85,INR,Transport,Auto,Auto expense,Credit Card,SBI,TXN676208,Akanksha,"Akanksha, Amit, Sakshi",1071.62,Yes,Yes,Weekly,Yes,Mumbai,birthday,Paid during birthday,Essentials,user,pass
+07-01-2025,2345.41,INR,Health,Medicines,Medicines expense,Cash,Paytm,,Sakshi,"Amit, Kirti, Sakshi",781.8,No,Yes,Weekly,No,Pune,college,Paid during college,Daily,user,pass
+30-12-2024,4631.11,INR,Shopping,Clothes,Clothes expense,Credit Card,HDFC,TXN423177,Akanksha,"Sakshi, Amit, Akanksha",1543.7,No,No,,Yes,Navi Mumbai,college,Paid during college,Daily,user,pass
+27-01-2025,2599.36,INR,Health,Medicines,Medicines expense,Cash,Paytm,,Kirti,"Akanksha, Sakshi, Amit",866.45,Yes,No,,No,Navi Mumbai,"hostel, birthday",Paid during hostel,Daily,user,pass
+29-01-2025,2203.23,INR,Food,Restaurant,Restaurant expense,Cash,HDFC,,Akanksha,"Amit, Sakshi",1101.62,No,No,,Yes,Pune,"urgent, festival",Paid during urgent,Essentials,user,pass
+13-03-2025,3349.87,INR,Bills,Electricity,Electricity expense,Wallet,HDFC,TXN233525,Kirti,"Amit, Sakshi",1674.93,No,No,,Yes,Navi Mumbai,"college, birthday",Paid during college,Monthly,user,pass
+24-02-2025,3171.85,INR,Shopping,Clothes,Clothes expense,Debit Card,PhonePe,TXN832984,Akanksha,Kirti,3171.85,No,Yes,None,Yes,Mumbai,urgent,Paid during urgent,Daily,user,pass
+20-12-2024,2206.42,INR,Transport,Train,Train expense,Debit Card,Paytm,TXN385163,Sakshi,"Kirti, Akanksha",1103.21,Yes,No,,No,Hyderabad,birthday,Paid during birthday,Luxury,user,pass
+19-12-2024,1464.8,INR,Education,Books,Books expense,Wallet,SBI,TXN177961,Akanksha,"Sakshi, Akanksha, Amit",488.27,Yes,Yes,Weekly,No,Navi Mumbai,college,Paid during college,Daily,user,pass
+18-01-2025,2533.44,INR,Food,Groceries,Groceries expense,Credit Card,SBI,TXN998937,Akanksha,"Akanksha, Amit, Kirti",844.48,No,No,,No,Hyderabad,urgent,Paid during urgent,Monthly,user,pass
+21-02-2025,3922.41,INR,Food,Restaurant,Restaurant expense,Wallet,SBI,TXN831289,Kirti,Kirti,3922.41,No,No,,No,Hyderabad,festival,Paid during festival,Daily,user,pass
+13-11-2024,2500.24,INR,Bills,Electricity,Electricity expense,Credit Card,HDFC,TXN475868,Sakshi,"Akanksha, Kirti",1250.12,No,No,,No,Mumbai,"birthday, festival",Paid during birthday,Daily,user,pass
+15-12-2024,3463.87,INR,Food,Restaurant,Restaurant expense,Debit Card,HDFC,TXN264352,Sakshi,"Amit, Akanksha, Sakshi",1154.62,Yes,No,,No,Pune,hostel,Paid during hostel,Luxury,user,pass
+18-02-2025,1847.38,INR,Education,Books,Books expense,Credit Card,PhonePe,TXN830771,Sakshi,"Amit, Akanksha, Sakshi",615.79,Yes,No,,No,Pune,hostel,Paid during hostel,Luxury,user,pass
+26-10-2024,1588.48,INR,Education,Books,Books expense,Credit Card,PhonePe,TXN142510,Kirti,"Amit, Akanksha",794.24,Yes,No,,Yes,Mumbai,"urgent, college",Paid during urgent,Essentials,user,pass
+23-11-2024,1091.25,INR,Bills,Electricity,Electricity expense,UPI,Paytm,TXN236756,Kirti,"Kirti, Amit, Akanksha",363.75,No,Yes,Weekly,No,Pune,"college, birthday",Paid during college,Daily,user,pass
+29-03-2025,2115.65,INR,Entertainment,Movie,Movie expense,Cash,Paytm,,Amit,Sakshi,2115.65,No,Yes,None,No,Mumbai,birthday,Paid during birthday,Luxury,user,pass
+06-03-2025,140.94,INR,Education,Books,Books expense,Cash,PhonePe,,Akanksha,"Kirti, Akanksha, Amit",46.98,Yes,No,,No,Pune,birthday,Paid during birthday,Daily,user,pass
+27-10-2024,2529.85,INR,Food,Groceries,Groceries expense,Debit Card,HDFC,TXN268963,Kirti,Kirti,2529.85,Yes,Yes,Monthly,No,Hyderabad,urgent,Paid during urgent,Monthly,user,pass
+11-01-2025,2428.62,INR,Health,Medicines,Medicines expense,Debit Card,Google Pay,TXN495935,Akanksha,Sakshi,2428.62,No,No,,No,Mumbai,"hostel, college",Paid during hostel,Essentials,user,pass
+15-10-2024,2214.27,INR,Transport,Train,Train expense,Cash,Paytm,,Amit,"Akanksha, Sakshi",1107.13,Yes,No,,No,Mumbai,"urgent, birthday",Paid during urgent,Essentials,user,pass
+18-03-2025,4344.69,INR,Transport,Train,Train expense,UPI,Google Pay,TXN927368,Amit,"Sakshi, Kirti, Amit",1448.23,No,Yes,None,Yes,Pune,hostel,Paid during hostel,Daily,user,pass
+06-01-2025,3523.96,INR,Transport,Train,Train expense,UPI,Paytm,TXN683552,Kirti,Kirti,3523.96,Yes,Yes,None,No,Mumbai,"birthday, festival",Paid during birthday,Essentials,user,pass
+28-12-2024,3140.88,INR,Entertainment,Movie,Movie expense,Credit Card,SBI,TXN394015,Akanksha,Akanksha,3140.88,No,No,,Yes,Mumbai,hostel,Paid during hostel,Luxury,user,pass
+08-12-2024,358.63,INR,Entertainment,Movie,Movie expense,Cash,Paytm,,Amit,Akanksha,358.63,No,No,,No,Pune,"festival, hostel",Paid during festival,Monthly,user,pass
+20-01-2025,2328.91,INR,Food,Restaurant,Restaurant expense,Credit Card,Google Pay,TXN829675,Amit,"Amit, Sakshi, Akanksha",776.3,Yes,No,,Yes,Pune,hostel,Paid during hostel,Monthly,user,pass
+11-12-2024,4149.88,INR,Food,Groceries,Groceries expense,Debit Card,PhonePe,TXN492087,Amit,Amit,4149.88,No,No,,No,Mumbai,college,Paid during college,Monthly,user,pass
+02-11-2024,4024.77,INR,Health,Medicines,Medicines expense,Cash,Google Pay,,Kirti,"Akanksha, Sakshi, Amit",1341.59,Yes,No,,No,Hyderabad,hostel,Paid during hostel,Daily,user,pass
+26-01-2025,724.17,INR,Transport,Train,Train expense,Wallet,SBI,TXN481242,Amit,"Sakshi, Amit, Akanksha",241.39,No,No,,No,Pune,"birthday, urgent",Paid during birthday,Essentials,user,pass
+30-03-2025,2262.84,INR,Food,Restaurant,Restaurant expense,Credit Card,Paytm,TXN959093,Amit,Akanksha,2262.84,Yes,No,,No,Pune,hostel,Paid during hostel,Essentials,user,pass
+09-12-2024,1974.58,INR,Transport,Train,Train expense,UPI,Paytm,TXN230037,Amit,Kirti,1974.58,No,No,,No,Hyderabad,urgent,Paid during urgent,Monthly,user,pass
+29-01-2025,581.44,INR,Food,Groceries,Groceries expense,UPI,SBI,TXN505262,Akanksha,Amit,581.44,Yes,Yes,Weekly,Yes,Navi Mumbai,college,Paid during college,Monthly,user,pass
+23-01-2025,744.91,INR,Bills,Electricity,Electricity expense,Debit Card,HDFC,TXN294665,Akanksha,"Akanksha, Sakshi",372.45,Yes,Yes,Monthly,Yes,Pune,college,Paid during college,Daily,user,pass
+28-11-2024,807.05,INR,Transport,Train,Train expense,Cash,Paytm,,Kirti,"Amit, Akanksha, Sakshi",269.02,Yes,Yes,Monthly,No,Navi Mumbai,urgent,Paid during urgent,Monthly,user,pass
+17-03-2025,3209.05,INR,Education,Books,Books expense,Credit Card,SBI,TXN645535,Kirti,Kirti,3209.05,Yes,No,,Yes,Pune,"festival, college",Paid during festival,Essentials,user,pass
+15-10-2024,2508.07,INR,Bills,Electricity,Electricity expense,Wallet,PhonePe,TXN126246,Kirti,Akanksha,2508.07,Yes,No,,Yes,Pune,"birthday, hostel",Paid during birthday,Monthly,user,pass
+15-03-2025,4105.1,INR,Education,Books,Books expense,Cash,PhonePe,,Akanksha,"Kirti, Sakshi",2052.55,No,Yes,Monthly,No,Hyderabad,"college, hostel",Paid during college,Monthly,user,pass
+28-01-2025,362.03,INR,Education,Books,Books expense,Wallet,SBI,TXN985413,Amit,Amit,362.03,Yes,No,,Yes,Mumbai,"birthday, college",Paid during birthday,Monthly,user,pass
+07-02-2025,2497.66,INR,Food,Restaurant,Restaurant expense,Credit Card,Paytm,TXN928683,Kirti,"Amit, Sakshi, Akanksha",832.55,No,No,,Yes,Navi Mumbai,urgent,Paid during urgent,Essentials,user,pass
+17-01-2025,2871.34,INR,Health,Medicines,Medicines expense,Credit Card,Paytm,TXN256092,Amit,Amit,2871.34,Yes,Yes,Monthly,No,Pune,"urgent, hostel",Paid during urgent,Monthly,user,pass
+17-02-2025,246.97,INR,Education,Books,Books expense,UPI,Paytm,TXN329598,Sakshi,"Kirti, Amit",123.48,Yes,No,,Yes,Mumbai,birthday,Paid during birthday,Monthly,user,pass
+03-11-2024,4394.77,INR,Entertainment,Movie,Movie expense,Credit Card,SBI,TXN822980,Akanksha,"Sakshi, Kirti",2197.39,No,No,,Yes,Pune,college,Paid during college,Essentials,user,pass
+15-10-2024,1543.66,INR,Food,Groceries,Groceries expense,Debit Card,PhonePe,TXN871091,Amit,"Amit, Akanksha, Kirti",514.55,Yes,Yes,Monthly,Yes,Hyderabad,"festival, birthday",Paid during festival,Monthly,user,pass
+30-11-2024,4097.43,INR,Shopping,Clothes,Clothes expense,Wallet,PhonePe,TXN876775,Amit,"Akanksha, Amit, Sakshi",1365.81,Yes,No,,No,Mumbai,urgent,Paid during urgent,Essentials,user,pass
+30-12-2024,1070.55,INR,Bills,Electricity,Electricity expense,Wallet,PhonePe,TXN131320,Sakshi,Kirti,1070.55,No,No,,No,Navi Mumbai,festival,Paid during festival,Monthly,user,pass
+07-11-2024,2259.34,INR,Entertainment,Movie,Movie expense,Credit Card,Paytm,TXN317078,Amit,"Akanksha, Kirti",1129.67,No,Yes,Monthly,No,Hyderabad,"birthday, college",Paid during birthday,Daily,user,pass
+24-12-2024,1491.83,INR,Food,Restaurant,Restaurant expense,Debit Card,Paytm,TXN153478,Akanksha,"Amit, Akanksha, Sakshi",497.28,No,Yes,Monthly,Yes,Pune,festival,Paid during festival,Luxury,user,pass
+26-11-2024,2458.37,INR,Transport,Auto,Auto expense,Credit Card,SBI,TXN906375,Amit,Kirti,2458.37,No,Yes,Weekly,No,Mumbai,college,Paid during college,Monthly,user,pass
+25-02-2025,1073.06,INR,Food,Restaurant,Restaurant expense,UPI,HDFC,TXN432958,Amit,Sakshi,1073.06,Yes,No,,Yes,Navi Mumbai,college,Paid during college,Essentials,user,pass
+12-11-2024,1223.57,INR,Transport,Auto,Auto expense,UPI,SBI,TXN207152,Kirti,"Kirti, Akanksha",611.78,Yes,Yes,Monthly,No,Pune,"urgent, festival",Paid during urgent,Luxury,user,pass
+14-10-2024,2151.68,INR,Transport,Train,Train expense,Wallet,Google Pay,TXN479229,Sakshi,Akanksha,2151.68,No,No,,Yes,Mumbai,hostel,Paid during hostel,Luxury,user,pass
+18-11-2024,1585.76,INR,Education,Books,Books expense,Debit Card,Paytm,TXN770652,Sakshi,Amit,1585.76,No,No,,Yes,Navi Mumbai,birthday,Paid during birthday,Monthly,user,pass
+01-02-2025,4450.13,INR,Food,Restaurant,Restaurant expense,Cash,Paytm,,Kirti,"Kirti, Akanksha",2225.07,Yes,No,,Yes,Navi Mumbai,"hostel, birthday",Paid during hostel,Monthly,user,pass
+03-03-2025,2229.98,INR,Bills,Electricity,Electricity expense,Credit Card,Paytm,TXN530341,Sakshi,"Kirti, Sakshi",1114.99,No,Yes,Monthly,No,Mumbai,"hostel, birthday",Paid during hostel,Luxury,user,pass
+14-01-2025,3493.31,INR,Shopping,Clothes,Clothes expense,Cash,PhonePe,,Sakshi,"Amit, Akanksha, Sakshi",1164.44,Yes,No,,Yes,Hyderabad,urgent,Paid during urgent,Essentials,user,pass
+23-02-2025,3077.15,INR,Bills,Electricity,Electricity expense,Debit Card,PhonePe,TXN540947,Amit,"Kirti, Amit",1538.58,No,No,,No,Pune,"urgent, college",Paid during urgent,Essentials,user,pass
+22-03-2025,1103.87,INR,Bills,Electricity,Electricity expense,Credit Card,Paytm,TXN602929,Kirti,Kirti,1103.87,Yes,No,,No,Pune,urgent,Paid during urgent,Daily,user,pass
+08-02-2025,3063.64,INR,Transport,Train,Train expense,Wallet,Google Pay,TXN473339,Kirti,Kirti,3063.64,No,No,,Yes,Pune,"festival, hostel",Paid during festival,Monthly,user,pass
+12-03-2025,3470.9,INR,Education,Books,Books expense,Credit Card,Paytm,TXN308740,Akanksha,Akanksha,3470.9,Yes,No,,No,Pune,college,Paid during college,Essentials,user,pass
+03-11-2024,933.5,INR,Food,Groceries,Groceries expense,Credit Card,Google Pay,TXN425086,Sakshi,"Kirti, Sakshi",466.75,No,Yes,None,Yes,Hyderabad,"birthday, urgent",Paid during birthday,Essentials,user,pass
+22-03-2025,4824.03,INR,Transport,Train,Train expense,Wallet,HDFC,TXN515247,Kirti,"Kirti, Amit, Akanksha",1608.01,Yes,Yes,Monthly,No,Navi Mumbai,festival,Paid during festival,Daily,user,pass
+25-03-2025,249.63,INR,Food,Restaurant,Restaurant expense,Wallet,SBI,TXN225649,Akanksha,"Amit, Akanksha",124.81,No,No,,Yes,Navi Mumbai,"birthday, hostel",Paid during birthday,Monthly,user,pass
+31-01-2025,3581.93,INR,Health,Medicines,Medicines expense,Wallet,HDFC,TXN417839,Akanksha,"Kirti, Akanksha",1790.96,No,No,,No,Pune,college,Paid during college,Monthly,user,pass
+06-03-2025,2042.89,INR,Food,Groceries,Groceries expense,Credit Card,Paytm,TXN251595,Kirti,"Kirti, Akanksha",1021.45,Yes,Yes,Weekly,Yes,Hyderabad,"birthday, college",Paid during birthday,Luxury,user,pass
+26-10-2024,4006.15,INR,Transport,Auto,Auto expense,Cash,SBI,,Amit,Akanksha,4006.15,Yes,Yes,Weekly,No,Hyderabad,"urgent, college",Paid during urgent,Essentials,user,pass
+31-01-2025,4661.2,INR,Food,Restaurant,Restaurant expense,Cash,PhonePe,,Kirti,"Akanksha, Kirti",2330.6,No,No,,Yes,Navi Mumbai,hostel,Paid during hostel,Luxury,user,pass
+17-01-2025,1754.03,INR,Transport,Auto,Auto expense,UPI,HDFC,TXN643182,Sakshi,"Kirti, Akanksha",877.01,No,Yes,None,No,Navi Mumbai,college,Paid during college,Essentials,user,pass
+23-12-2024,3101.9,INR,Transport,Auto,Auto expense,UPI,HDFC,TXN698108,Kirti,Amit,3101.9,Yes,Yes,Weekly,No,Pune,birthday,Paid during birthday,Essentials,user,pass
+17-03-2025,425.45,INR,Health,Medicines,Medicines expense,Credit Card,SBI,TXN949028,Kirti,"Akanksha, Sakshi",212.72,No,No,,No,Navi Mumbai,hostel,Paid during hostel,Daily,user,pass
+12-12-2024,2305.37,INR,Transport,Auto,Auto expense,UPI,Paytm,TXN800759,Amit,Amit,2305.37,No,Yes,None,Yes,Hyderabad,festival,Paid during festival,Daily,user,pass
+02-03-2025,1067.56,INR,Shopping,Clothes,Clothes expense,Credit Card,Google Pay,TXN213453,Sakshi,"Akanksha, Kirti, Amit",355.85,No,Yes,Monthly,Yes,Hyderabad,birthday,Paid during birthday,Luxury,user,pass
+19-10-2024,1990.12,INR,Bills,Electricity,Electricity expense,Wallet,SBI,TXN213274,Sakshi,Kirti,1990.12,Yes,Yes,None,Yes,Hyderabad,"hostel, urgent",Paid during hostel,Monthly,user,pass
+23-12-2024,1843.99,INR,Transport,Train,Train expense,Cash,PhonePe,,Kirti,"Sakshi, Kirti",922,Yes,No,,No,Pune,"birthday, urgent",Paid during birthday,Monthly,user,pass
+18-01-2025,2115.46,INR,Health,Medicines,Medicines expense,Debit Card,SBI,TXN603082,Kirti,"Amit, Kirti",1057.73,Yes,No,,Yes,Navi Mumbai,urgent,Paid during urgent,Daily,user,pass
+11-02-2025,785.71,INR,Transport,Train,Train expense,Wallet,Paytm,TXN606491,Sakshi,Amit,785.71,No,Yes,Monthly,Yes,Navi Mumbai,college,Paid during college,Monthly,user,pass
+13-02-2025,1116.45,INR,Shopping,Clothes,Clothes expense,Cash,Google Pay,,Akanksha,Sakshi,1116.45,Yes,Yes,Monthly,Yes,Hyderabad,"festival, birthday",Paid during festival,Monthly,user,pass
+06-01-2025,2808.56,INR,Transport,Auto,Auto expense,Debit Card,PhonePe,TXN518771,Sakshi,Akanksha,2808.56,Yes,No,,No,Pune,hostel,Paid during hostel,Essentials,user,pass
+17-11-2024,2730.05,INR,Entertainment,Movie,Movie expense,Wallet,PhonePe,TXN959495,Amit,"Kirti, Akanksha",1365.03,No,Yes,None,No,Hyderabad,birthday,Paid during birthday,Monthly,user,pass
+20-10-2024,198.52,INR,Transport,Auto,Auto expense,Credit Card,Paytm,TXN681340,Kirti,"Amit, Sakshi",99.26,Yes,No,,No,Navi Mumbai,festival,Paid during festival,Essentials,user,pass
+01-04-2025,2807.52,INR,Entertainment,Movie,Movie expense,Credit Card,Paytm,TXN413930,Kirti,"Amit, Sakshi, Kirti",935.84,Yes,No,,No,Mumbai,"college, hostel",Paid during college,Luxury,user,pass
+12-12-2024,164.29,INR,Food,Groceries,Groceries expense,Cash,HDFC,,Sakshi,Sakshi,164.29,Yes,Yes,Monthly,No,Pune,"festival, hostel",Paid during festival,Essentials,user,pass
+11-02-2025,957.67,INR,Shopping,Clothes,Clothes expense,UPI,Paytm,TXN424869,Akanksha,Akanksha,957.67,Yes,No,,Yes,Navi Mumbai,urgent,Paid during urgent,Luxury,user,pass
+01-01-2025,1026.18,INR,Food,Groceries,Groceries expense,UPI,SBI,TXN459097,Amit,"Kirti, Akanksha, Amit",342.06,Yes,Yes,Weekly,Yes,Navi Mumbai,birthday,Paid during birthday,Daily,user,pass
+18-12-2024,3737.79,INR,Transport,Auto,Auto expense,Wallet,SBI,TXN127810,Amit,"Amit, Sakshi, Akanksha",1245.93,No,Yes,Weekly,Yes,Mumbai,birthday,Paid during birthday,Daily,user,pass
+16-10-2024,1037.43,INR,Health,Medicines,Medicines expense,Credit Card,PhonePe,TXN990721,Amit,"Amit, Akanksha, Kirti",345.81,Yes,Yes,Weekly,Yes,Pune,"urgent, festival",Paid during urgent,Monthly,user,pass
+07-12-2024,3815.88,INR,Education,Books,Books expense,Debit Card,SBI,TXN857515,Kirti,Akanksha,3815.88,No,No,,Yes,Mumbai,festival,Paid during festival,Luxury,user,pass
+24-11-2024,3227.48,INR,Shopping,Clothes,Clothes expense,Wallet,SBI,TXN772879,Akanksha,"Sakshi, Kirti",1613.74,Yes,Yes,Weekly,No,Pune,"urgent, college",Paid during urgent,Monthly,user,pass
+06-01-2025,1617.66,INR,Food,Restaurant,Restaurant expense,Wallet,SBI,TXN544594,Akanksha,"Kirti, Akanksha",808.83,Yes,No,,Yes,Navi Mumbai,"festival, birthday",Paid during festival,Luxury,user,pass
+23-02-2025,740.7,INR,Education,Books,Books expense,UPI,Google Pay,TXN722415,Akanksha,Amit,740.7,Yes,Yes,Weekly,Yes,Pune,"urgent, hostel",Paid during urgent,Daily,user,pass
+09-02-2025,3130.74,INR,Health,Medicines,Medicines expense,Wallet,PhonePe,TXN148462,Akanksha,Akanksha,3130.74,Yes,Yes,Monthly,Yes,Mumbai,"festival, hostel",Paid during festival,Daily,user,pass
+06-01-2025,3631.85,INR,Transport,Auto,Auto expense,Cash,Paytm,,Akanksha,Kirti,3631.85,No,No,,Yes,Hyderabad,birthday,Paid during birthday,Monthly,user,pass
+18-03-2025,4471.61,INR,Transport,Auto,Auto expense,Cash,Google Pay,,Kirti,Kirti,4471.61,Yes,No,,Yes,Mumbai,urgent,Paid during urgent,Essentials,user,pass
+22-01-2025,454.57,INR,Education,Books,Books expense,Cash,Google Pay,,Kirti,"Sakshi, Amit",227.28,Yes,No,,Yes,Navi Mumbai,"hostel, college",Paid during hostel,Monthly,user,pass
+23-12-2024,2594.96,INR,Education,Books,Books expense,Debit Card,HDFC,TXN898819,Amit,"Amit, Kirti",1297.48,Yes,Yes,Monthly,Yes,Hyderabad,birthday,Paid during birthday,Monthly,user,pass
+15-01-2025,1672.88,INR,Health,Medicines,Medicines expense,Debit Card,PhonePe,TXN132910,Kirti,"Kirti, Sakshi, Amit",557.63,Yes,No,,Yes,Pune,urgent,Paid during urgent,Daily,user,pass
+10-02-2025,4992.85,INR,Transport,Train,Train expense,Cash,Google Pay,,Akanksha,"Akanksha, Kirti, Sakshi",1664.28,Yes,No,,Yes,Navi Mumbai,"festival, birthday",Paid during festival,Luxury,user,pass
+18-12-2024,464.74,INR,Shopping,Clothes,Clothes expense,UPI,PhonePe,TXN888749,Kirti,"Sakshi, Amit",232.37,No,Yes,None,Yes,Mumbai,"college, festival",Paid during college,Luxury,user,pass
+13-11-2024,149.75,INR,Food,Groceries,Groceries expense,Debit Card,PhonePe,TXN237319,Amit,"Sakshi, Kirti",74.88,No,No,,No,Pune,"birthday, urgent",Paid during birthday,Daily,user,pass
+03-04-2025,3913.43,INR,Food,Restaurant,Restaurant expense,Debit Card,Paytm,TXN709780,Sakshi,"Amit, Akanksha, Kirti",1304.48,Yes,No,,Yes,Pune,"hostel, festival",Paid during hostel,Monthly,user,pass
+15-03-2025,3397.68,INR,Entertainment,Movie,Movie expense,Cash,HDFC,,Kirti,"Akanksha, Kirti",1698.84,No,Yes,None,Yes,Pune,"urgent, birthday",Paid during urgent,Daily,user,pass
+16-03-2025,538.65,INR,Food,Restaurant,Restaurant expense,UPI,Google Pay,TXN691485,Sakshi,"Amit, Sakshi, Akanksha",179.55,Yes,Yes,None,No,Navi Mumbai,birthday,Paid during birthday,Essentials,user,pass
+08-12-2024,3922.83,INR,Shopping,Clothes,Clothes expense,Cash,PhonePe,,Akanksha,Kirti,3922.83,Yes,No,,Yes,Pune,"hostel, college",Paid during hostel,Essentials,user,pass
+13-10-2024,4515.58,INR,Transport,Auto,Auto expense,Cash,Google Pay,,Amit,"Amit, Sakshi, Kirti",1505.19,Yes,Yes,Monthly,Yes,Pune,urgent,Paid during urgent,Daily,user,pass
+24-10-2024,972.31,INR,Transport,Auto,Auto expense,UPI,Paytm,TXN180336,Amit,"Kirti, Akanksha",486.15,No,No,,Yes,Navi Mumbai,"urgent, hostel",Paid during urgent,Luxury,user,pass
+16-03-2025,4665.13,INR,Food,Groceries,Groceries expense,UPI,HDFC,TXN669400,Kirti,"Amit, Sakshi",2332.57,No,Yes,Weekly,Yes,Hyderabad,"college, birthday",Paid during college,Luxury,user,pass
+26-11-2024,3572.45,INR,Health,Medicines,Medicines expense,UPI,Paytm,TXN757944,Kirti,"Sakshi, Amit",1786.22,No,No,,Yes,Hyderabad,"urgent, college",Paid during urgent,Luxury,user,pass
+29-11-2024,4537.13,INR,Transport,Auto,Auto expense,Debit Card,HDFC,TXN624256,Akanksha,"Akanksha, Sakshi, Kirti",1512.38,No,Yes,None,Yes,Mumbai,college,Paid during college,Daily,user,pass
+16-01-2025,4029.29,INR,Bills,Electricity,Electricity expense,Credit Card,SBI,TXN409355,Sakshi,Kirti,4029.29,Yes,No,,No,Navi Mumbai,hostel,Paid during hostel,Monthly,user,pass
+17-02-2025,4425.74,INR,Food,Groceries,Groceries expense,Wallet,Google Pay,TXN806028,Kirti,Akanksha,4425.74,Yes,Yes,Weekly,Yes,Pune,birthday,Paid during birthday,Essentials,user,pass
+17-03-2025,362.75,INR,Entertainment,Movie,Movie expense,UPI,HDFC,TXN297550,Akanksha,"Kirti, Sakshi, Amit",120.92,No,Yes,Weekly,No,Hyderabad,"hostel, festival",Paid during hostel,Daily,user,pass
+16-11-2024,1328.01,INR,Food,Groceries,Groceries expense,Wallet,Google Pay,TXN100416,Akanksha,Sakshi,1328.01,No,Yes,Monthly,Yes,Pune,urgent,Paid during urgent,Daily,user,pass
+22-01-2025,219.75,INR,Bills,Electricity,Electricity expense,Credit Card,Google Pay,TXN405119,Kirti,"Amit, Sakshi, Kirti",73.25,Yes,Yes,Weekly,No,Mumbai,hostel,Paid during hostel,Luxury,user,pass
+18-10-2024,2124.25,INR,Shopping,Clothes,Clothes expense,Cash,PhonePe,,Kirti,"Sakshi, Akanksha",1062.12,No,No,,No,Navi Mumbai,"birthday, college",Paid during birthday,Luxury,user,pass
+16-12-2024,364.92,INR,Food,Groceries,Groceries expense,Debit Card,Paytm,TXN890135,Akanksha,"Sakshi, Akanksha",182.46,No,Yes,None,No,Hyderabad,birthday,Paid during birthday,Luxury,user,pass
+23-03-2025,946.75,INR,Transport,Train,Train expense,Wallet,HDFC,TXN263450,Sakshi,Amit,946.75,No,No,,Yes,Pune,festival,Paid during festival,Monthly,user,pass
+26-02-2025,147.48,INR,Health,Medicines,Medicines expense,UPI,SBI,TXN725582,Sakshi,"Amit, Kirti, Sakshi",49.16,Yes,No,,No,Navi Mumbai,college,Paid during college,Daily,user,pass
+14-02-2025,506.97,INR,Transport,Train,Train expense,Wallet,Google Pay,TXN904955,Kirti,"Kirti, Akanksha",253.49,No,Yes,Weekly,No,Pune,"festival, hostel",Paid during festival,Essentials,user,pass
+22-02-2025,1828.07,INR,Food,Groceries,Groceries expense,Credit Card,SBI,TXN551407,Akanksha,"Sakshi, Akanksha, Amit",609.36,Yes,No,,No,Pune,college,Paid during college,Daily,user,pass
+12-02-2025,4984.5,INR,Health,Medicines,Medicines expense,Debit Card,Paytm,TXN749597,Kirti,Akanksha,4984.5,Yes,Yes,Monthly,Yes,Navi Mumbai,"festival, college",Paid during festival,Daily,user,pass
+05-11-2024,1047.05,INR,Food,Groceries,Groceries expense,Credit Card,SBI,TXN918201,Akanksha,"Kirti, Akanksha",523.52,No,Yes,None,Yes,Navi Mumbai,college,Paid during college,Luxury,user,pass
+22-12-2024,3056.46,INR,Shopping,Clothes,Clothes expense,Cash,SBI,,Sakshi,"Kirti, Sakshi",1528.23,No,Yes,Monthly,Yes,Mumbai,birthday,Paid during birthday,Luxury,user,pass
+06-12-2024,3735.94,INR,Food,Restaurant,Restaurant expense,Debit Card,HDFC,TXN283476,Amit,"Akanksha, Sakshi",1867.97,Yes,Yes,Weekly,No,Navi Mumbai,festival,Paid during festival,Luxury,user,pass
+24-10-2024,2102.16,INR,Education,Books,Books expense,Credit Card,Paytm,TXN309995,Sakshi,"Akanksha, Amit, Kirti",700.72,No,No,,Yes,Mumbai,birthday,Paid during birthday,Daily,user,pass
+18-12-2024,2698.51,INR,Food,Restaurant,Restaurant expense,Credit Card,Google Pay,TXN972301,Amit,"Akanksha, Amit",1349.26,No,Yes,Weekly,Yes,Mumbai,"urgent, birthday",Paid during urgent,Daily,user,pass
+28-10-2024,4946.6,INR,Food,Restaurant,Restaurant expense,Wallet,SBI,TXN693707,Amit,"Sakshi, Amit, Kirti",1648.87,No,No,,No,Navi Mumbai,urgent,Paid during urgent,Daily,user,pass
+21-03-2025,293.8,INR,Food,Groceries,Groceries expense,Credit Card,Paytm,TXN777870,Kirti,Amit,293.8,Yes,Yes,Monthly,Yes,Hyderabad,festival,Paid during festival,Essentials,user,pass
+08-03-2025,192.27,INR,Shopping,Clothes,Clothes expense,Credit Card,SBI,TXN889238,Kirti,"Akanksha, Amit, Sakshi",64.09,Yes,Yes,Monthly,No,Hyderabad,urgent,Paid during urgent,Luxury,user,pass
+11-12-2024,1338.44,INR,Education,Books,Books expense,UPI,PhonePe,TXN307190,Amit,"Sakshi, Akanksha, Amit",446.15,No,Yes,None,No,Navi Mumbai,"birthday, hostel",Paid during birthday,Luxury,user,pass
+15-02-2025,2153.06,INR,Transport,Train,Train expense,Wallet,Google Pay,TXN667091,Sakshi,"Kirti, Amit, Akanksha",717.69,Yes,No,,No,Navi Mumbai,"birthday, college",Paid during birthday,Monthly,user,pass
+01-11-2024,3416.65,INR,Bills,Electricity,Electricity expense,Cash,Paytm,,Sakshi,Amit,3416.65,No,Yes,Weekly,Yes,Mumbai,"urgent, college",Paid during urgent,Essentials,user,pass
+28-02-2025,3462.82,INR,Entertainment,Movie,Movie expense,UPI,PhonePe,TXN842415,Sakshi,"Sakshi, Amit",1731.41,No,No,,Yes,Hyderabad,"urgent, college",Paid during urgent,Luxury,user,pass
+12-11-2024,4712.05,INR,Education,Books,Books expense,Debit Card,HDFC,TXN998700,Kirti,"Amit, Sakshi",2356.03,Yes,Yes,None,Yes,Mumbai,college,Paid during college,Essentials,user,pass
+06-11-2024,4945.61,INR,Transport,Auto,Auto expense,Cash,SBI,,Amit,Sakshi,4945.61,No,No,,Yes,Navi Mumbai,"festival, urgent",Paid during festival,Monthly,user,pass
+05-12-2024,2586.04,INR,Health,Medicines,Medicines expense,Debit Card,PhonePe,TXN948090,Sakshi,"Amit, Akanksha, Kirti",862.01,No,No,,No,Pune,urgent,Paid during urgent,Luxury,user,pass
+22-03-2025,1061.64,INR,Transport,Train,Train expense,UPI,SBI,TXN280284,Akanksha,Amit,1061.64,Yes,No,,Yes,Navi Mumbai,"urgent, birthday",Paid during urgent,Monthly,user,pass
+01-04-2025,471.67,INR,Transport,Auto,Auto expense,Debit Card,Google Pay,TXN571552,Akanksha,"Akanksha, Amit",235.84,Yes,No,,No,Mumbai,"urgent, hostel",Paid during urgent,Luxury,user,pass
+27-11-2024,3232.57,INR,Transport,Train,Train expense,Cash,HDFC,,Akanksha,"Sakshi, Kirti, Amit",1077.52,No,Yes,None,Yes,Mumbai,"birthday, urgent",Paid during birthday,Luxury,user,pass
+30-03-2025,141.05,INR,Transport,Auto,Auto expense,Debit Card,SBI,TXN892106,Akanksha,Kirti,141.05,Yes,Yes,Weekly,Yes,Hyderabad,urgent,Paid during urgent,Luxury,user,pass
+03-12-2024,645.9,INR,Transport,Train,Train expense,Debit Card,PhonePe,TXN531253,Kirti,"Kirti, Amit, Sakshi",215.3,Yes,Yes,Weekly,Yes,Hyderabad,college,Paid during college,Monthly,user,pass
